@@ -1,0 +1,598 @@
+T1		T2		T3		T4		T5		T6		T7		T8	
+232.3	Computer	166.1	Computer	182.5	Computer	331.7	Computer	282.3	Computer	82.9	Computer	116.2	Computer	116	Computer
+166.2	Computer	99.8	Computer	83.1	Building Blocks	398.2	Computer	116.2	Building Blocks	149.3	Building Blocks	132.7	Building Blocks	381.8	Computer
+82.8	Computer	149.5	Building Blocks	248.7	Building Blocks	265.5	Building Blocks	298.6	Building Blocks	232.5	Building Blocks	165.9	Building Blocks	132.6	Building Blocks
+99.3	Building Blocks	298.5	Building Blocks	215.9	Building Blocks	680.4	Building Blocks	481.4	Building Blocks	647.2	Building Blocks	398.5	Building Blocks	232.4	Building Blocks
+116.4	Building Blocks	564.3	Building Blocks	215.5	Building Blocks	198.7	Building Blocks	182.6	Building Blocks	83	Computer	99.7	Building Area	199.2	Building Blocks
+132.8	Building Blocks	282.1	Building Blocks	647.4	Building Blocks	149.1	Building Blocks	132.8	Building Blocks	232.2	Building Area	564.5	Building Area	365.1	Building Blocks
+182.4	Building Blocks	547.9	Building Blocks	232.4	Computer	382.2	Building Area	398.3	Computer	83.1	Building Area	165.8	Building Blocks	165.8	Computer
+265.7	Computer	83	Computer	314.9	Building Area	298.7	Computer	282.2	Building Area	165.9	Building Area	265.4	Building Blocks	99.7	Computer
+929	Building Blocks	149.4	Computer	249	Building Area	215.7	Computer	132.8	Computer	99.6	Building Area	132.9	Building Area	663.6	Building Area
+348.3	Building Blocks	116.2	Building Area	132.6	Building Area	99.4	Computer	115.8	Building Area	398.3	Computer	182.4	Building Area	182.4	Building Area
+398	Building Blocks	165.9	Building Area	448	Computer	448.2	Building Area	248.9	Building Area	199.1	Computer	149.2	Building Area	182.6	Building Area
+132.6	Building Area	132.6	Building Area	149.4	Computer	182.6	Building Blocks	166	Building Area	199.2	Building Blocks	83.1	Computer	199.1	Building Area
+249.2	Building Area	481.3	Computer	215.9	Computer	198.9	Building Blocks	199.2	Building Area	116	Building Blocks	182.8	Computer	199.3	Building Blocks
+149.5	Computer	116.4	Computer	166.2	Building Blocks	514.5	Building Blocks	448.4	Building Area	232.3	Building Blocks	249	Computer	580.7	Building Blocks
+66.6	Computer	232.5	Computer	149.2	Building Blocks	298.6	Computer	365.4	Computer	282.2	Computer	115.9	Building Blocks	199	Building Blocks
+149.4	Building Blocks	581.1	Building Blocks	149.3	Building Blocks	166	Computer	165.8	Building Blocks	99.7	Computer	116	Building Blocks	215.8	Building Blocks
+481.3	Building Blocks	149.4	Building Blocks	132.8	Building Blocks	116.1	Computer	99.5	Building Blocks	298.6	Building Blocks	332	Building Blocks	83	Building Blocks
+365.3	Building Blocks	249	Building Blocks	182.5	Building Blocks	182.5	Building Blocks	149.4	Building Blocks	265.5	Building Area	398.1	Building Blocks	199.1	Building Blocks
+182.6	Building Area	298.7	Computer	464.6	Building Blocks	232.4	Building Blocks	149.2	Building Blocks	215.7	Building Blocks	365.3	Building Blocks	149.2	Building Blocks
+481.1	Building Area	132.8	Building Area	232.4	Building Blocks	149.6	Building Blocks	199.2	Building Blocks	149.4	Building Blocks	414.7	Building Blocks	83	Computer
+166.1	Computer	431.3	Building Area	132.9	Building Blocks	99.6	Building Area	215.9	Building Blocks	547.6	Building Blocks	116.1	Computer	232.5	Computer
+166.3	Building Blocks	265.3	Building Area	149.5	Building Blocks	132.8	Building Area	116	Computer	281.9	Computer	232.5	Computer	116.1	Building Blocks
+896.1	Building Blocks	83.2	Building Area	116	Building Blocks	133.2	Computer	199	Computer	182.8	Building Area	216	Building Blocks	182.3	Building Blocks
+331.7	Building Blocks	265.5	Computer	282.1	Building Blocks	464.7	Building Area	132.5	Building Area	182.6	Building Area	182.8	Building Blocks	232.7	Computer
+116.3	Computer	282.1	Building Area	199	Computer	298.4	Building Area	215.8	Building Area	132.8	Building Area	414.9	Building Blocks	166	Building Area
+315.2	Computer	132.7	Building Area	182.3	Building Area	165.9	Building Blocks	331.6	Building Area	132.4	Building Area	331.7	Computer	132.6	Building Area
+132.8	Computer	132.8	Computer	763.2	Building Area	465	Building Blocks	199.3	Building Area	365.2	Building Area	116	Building Area	232.5	Building Area
+182.5	Computer	199.1	Computer	132.6	Computer	365.4	Computer	132.8	Computer	863.1	Building Area	381.5	Building Area	431.5	Building Area
+149.3	Computer	116.1	Computer	99.6	Computer	381.6	Computer	282.1	Computer	199	Computer	166.2	Computer	132.7	Building Area
+149.4	Computer	115.8	Building Blocks	514.3	Building Area	149.3	Computer	398.2	Building Blocks	165.9	Building Blocks	149.4	Computer	447.9	Building Blocks
+282.3	Computer	813.1	Building Blocks	99.5	Computer	216	Building Area	282.1	Computer	331.7	Building Blocks	365.4	Building Blocks	298.8	Building Blocks
+348.5	Computer	365	Computer	182.6	Computer	99.5	Computer	365.2	Building Blocks	99.5	Computer	82.8	Building Blocks	116	Computer
+282.1	Computer	82.9	Building Area	464.6	Computer	365.2	Building Area	199.1	Building Blocks	166	Computer	83.1	Building Area	182.7	Computer
+82.8	Building Area	282.2	Building Area	132.9	Building Blocks	99.5	Building Area	149.4	Building Area	149.7	Computer	148.9	Building Area	331.7	Computer
+83	Building Area	99.3	Building Area	431.3	Building Blocks	282	Building Area	1526.7	Building Area	498	Computer	282.2	Building Area	149.4	Computer
+149.2	Building Area	1294.6	Building Area	531	Building Blocks	149.2	Building Area	265.5	Building Area	132.7	Computer	166	Building Area	232.2	Building Area
+249	Building Area	946.2	Building Area	149.5	Computer	166.2	Building Area	215.6	Computer	149.3	Building Area	132.6	Building Blocks	83	Building Area
+149.4	Building Area	315.6	Building Area	215.4	Computer	116.2	Building Area	414.8	Building Area	83	Building Area	265.4	Building Blocks	249	Building Area
+83.3	Computer	2340.1	Building Area	99.7	Building Blocks	132.8	Building Area	1675.9	Building Area	149.2	Building Area	332	Building Blocks	464.9	Building Area
+216	Computer	447.7	Building Area	481.2	Building Blocks	116.3	Computer	265.3	Building Area	165.9	Building Area	149	Building Blocks	182.8	Building Area
+315	Building Area	82.9	Building Area	132.9	Building Blocks	199.1	Computer	165.9	Building Area	282	Building Area	282.1	Computer	331.9	Building Area
+149	Computer	348.5	Computer	382	Computer	531.3	Building Area	1659.5	Building Area	1593	Building Area	116.2	Computer	282.2	Building Area
+215.8	Computer	198.9	Building Area	132.5	Building Area	82.9	Computer	282	Building Area	431.3	Building Area	182.5	Computer	680.2	Building Area
+83	Computer	614	Building Area	431.4	Building Area	82.9	Computer	232.2	Building Area	182.4	Building Area	265.1	Computer	166	Building Area
+149.4	Building Area	115.8	Computer	365.4	Building Area	282	Computer	182.5	Building Area	298.7	Building Area	298.7	Computer	99.7	Building Area
+315.4	Building Area	298.9	Computer	166	Building Area	132.9	Building Area	182.5	Building Area	132.8	Building Area	232.4	Building Area	215.9	Building Area
+165.9	Building Area	99.5	Building Area	83	Building Area	1842.4	Building Area	99.9	Building Area	1742.3	Building Area	149.4	Building Area	962.7	Building Area
+116.1	Building Area	1526.7	Building Area	331.7	Building Area	282.4	Building Area	1211.3	Building Area	614.4	Building Area	763.5	Building Area	365.2	Building Area
+132.9	Building Area	315.2	Building Area	83	Building Area	182.5	Building Area	232.2	Building Area	1211.5	Building Area	182.9	Building Area	282.3	Building Area
+149.2	Building Area	199.3	Building Area	248.8	Building Area	132.9	Building Area	215.7	Building Area	265.4	Building Area	149.2	Building Area	398.2	Building Area
+365.2	Building Area	132.8	Building Area	713.8	Building Area	663.8	Building Area	348.4	Building Area	1394.1	Building Area	365.5	Building Area	132.5	Building Area
+149.2	Building Area	547.7	Building Area	165.7	Building Area	232.4	Building Area	165.8	Building Area	398.3	Building Area	1062.3	Building Area	199.3	Building Area
+132.9	Building Area	199.2	Building Area	149.5	Building Area	66.4	Building Area	232.2	Building Area	116.2	Building Area	116.2	Building Area	116	Building Area
+215.5	Computer	215.9	Building Area	796.8	Building Area	414.7	Building Area	364.8	Building Area	813.3	Building Area	82.9	Building Area	166.1	Building Area
+415.2	Computer	331.6	Building Area	99.4	Building Area	779.8	Building Area	166.1	Building Area	398.3	Building Area	149.1	Building Area	265.6	Building Area
+464.5	Computer	315.3	Building Area	812.9	Building Area	597.3	Building Area	149.2	Building Area	531	Building Area	82.8	Building Area	1443.7	Building Area
+99.3	Building Area	381.8	Computer	696.7	Building Area	447.9	Building Area	597.6	Building Area	149.5	Computer	133.1	Building Area	215.9	Building Area
+99.5	Building Area	182.6	Computer	929.4	Building Area	564.5	Building Area	1377.5	Building Area	315.2	Computer	1045.3	Building Area	630.6	Building Area
+99.5	Building Blocks	381.6	Computer	199.3	Computer	165.6	Building Area	763.3	Building Area	182.6	Computer	364.8	Building Area	99.8	Building Area
+99.5	Computer	182.5	Building Blocks	82.9	Computer	198.7	Building Area	132.6	Computer	149.6	Computer	182.5	Building Area	149.4	Building Area
+116.1	Computer	149.1	Building Blocks	165.9	Computer	199	Building Area	265.6	Computer	182.4	Computer	697	Building Area	166	Building Area
+215.7	Building Blocks	281.9	Building Blocks	132.8	Computer	1062.1	Building Area	315.4	Computer	83.1	Computer	116.3	Building Area	398.3	Building Area
+116.1	Building Blocks	199.5	Building Blocks	348.7	Building Area	547.7	Building Area	315.5	Computer	199.3	Building Blocks	82.9	Building Area	132.9	Building Area
+82.9	Building Blocks	132.8	Building Blocks	149.5	Building Area	531	Building Area	149.5	Computer	83	Building Blocks	132.9	Building Area	132.6	Building Area
+630.7	Building Blocks	83.5	Computer	265.5	Building Area	99.6	Computer	82.9	Building Blocks	198.8	Building Blocks	265.5	Building Area	580.6	Building Area
+265.6	Building Blocks	199.1	Computer	99.1	Computer	265.5	Computer	132.8	Building Blocks	215.9	Building Blocks	199.1	Building Area	232.3	Building Area
+182.4	Building Blocks	132.9	Building Area	398.4	Computer	215.8	Computer	165.8	Building Blocks	331.5	Computer	149.4	Building Area	132.7	Building Area
+414.7	Building Area	248.7	Building Area	199.1	Computer	365.1	Computer	132.9	Building Blocks	199	Building Area	149.3	Building Area	348.6	Building Area
+514.2	Building Area	497.7	Building Area	199	Computer	82.8	Computer	165.8	Building Blocks	448.2	Building Area	99.8	Building Area	265.7	Building Area
+481.3	Building Area	116.4	Building Area	1045.6	Building Area	149.3	Building Blocks	132.6	Building Area	99.5	Building Area	182.4	Building Area	149.1	Building Area
+116.1	Computer	481.3	Building Area	331.9	Building Area	132.7	Building Blocks	149.2	Computer	597.5	Building Area	1045.3	Building Area	149.6	Building Area
+132.8	Computer	862.9	Building Area	165.9	Building Area	132.8	Building Blocks	83.1	Building Area	1593	Building Area	232.4	Building Area	82.9	Building Area
+132.6	Computer	398.1	Computer	265.7	Building Area	249	Building Blocks	166	Building Area	365	Computer	663.6	Building Area	381.8	Building Area
+199.1	Building Blocks	281.9	Computer	166.1	Building Area	182.8	Building Blocks	165.9	Building Area	182.6	Computer	315.5	Building Area	265.6	Building Area
+530.8	Building Blocks	133	Computer	581.1	Building Area	381.7	Computer	282.3	Building Area	215.6	Computer	199.1	Building Area	149.4	Building Area
+730	Building Area	215.6	Building Blocks	431.5	Building Area	166.4	Building Area	215.2	Computer	115.8	Building Area	182.4	Building Area	149.4	Building Area
+199	Building Area	298.7	Building Blocks	282.1	Building Area	1095.5	Building Area	116	Computer	116.3	Building Area	282	Building Area	365.2	Building Area
+531	Building Area	182.5	Building Blocks	182.9	Building Area	1709.3	Building Area	149.1	Building Area	331.8	Computer	232.5	Building Area	182.6	Building Area
+165.8	Computer	198.9	Building Blocks	199	Building Area	116.2	Building Area	1045.2	Building Area	99.4	Building Area	215.6	Building Area	116.1	Computer
+265.4	Computer	82.8	Computer	149.1	Building Area	199.2	Building Area	199.1	Building Area	165.8	Building Area	132.6	Building Area	215.9	Computer
+365	Computer	248.9	Computer	182.7	Building Area	281.7	Computer	1145.1	Building Area	248.7	Building Area	199.4	Building Area	199.1	Computer
+232.1	Computer	265.5	Building Area	132.6	Building Area	199.1	Computer	149.3	Building Area	116	Computer	547.8	Building Area	116	Computer
+315.1	Computer	165.8	Building Area	315.3	Building Area	149.5	Computer	149.4	Computer	514.4	Computer	1161.8	Building Area	116.2	Building Blocks
+298.6	Computer	248.9	Building Area	199.1	Building Area	199.1	Building Blocks	547.7	Computer	149.2	Building Blocks	116.2	Building Area	83	Building Blocks
+331.8	Building Blocks	398.5	Building Area	497.9	Building Area	680.4	Building Blocks	199.2	Computer	249	Building Blocks	613.8	Building Area	132.9	Building Blocks
+282	Building Blocks	232.5	Building Area	1161.5	Building Area	348.4	Building Blocks	215.6	Computer	215.7	Building Blocks	514.2	Computer	232.2	Building Blocks
+232.3	Computer	498.2	Building Blocks	248.5	Building Area	265.3	Building Area	198.7	Building Blocks	912.8	Building Blocks	198.9	Computer	99.3	Computer
+199.3	Computer	265.7	Computer	199.1	Building Area	116.1	Building Blocks	83	Building Blocks	298.7	Building Blocks	199.4	Computer	99.6	Computer
+82.8	Building Blocks	132.6	Computer	166	Building Area	115.9	Building Area	265.4	Building Area	182.5	Building Area	165.8	Building Blocks	99.7	Building Area
+265.4	Building Blocks	315.2	Computer	1244.8	Building Area	846.4	Building Area	199.2	Building Blocks	82.7	Building Area	116.2	Building Blocks	99.6	Building Area
+381.9	Building Blocks	99.9	Computer	82.9	Building Area	198.7	Building Area	763.3	Building Blocks	149.2	Computer	166	Building Blocks	116	Building Area
+564.1	Building Blocks	547.5	Computer	813.3	Building Area	149.4	Building Blocks	149.4	Building Blocks	348.8	Computer	398.4	Building Blocks	116.1	Building Area
+514.3	Building Blocks	166	Computer	116.3	Building Area	165.5	Building Blocks	232.4	Building Blocks	182.1	Computer	431.1	Computer	99.5	Computer
+248.8	Building Area	580.8	Building Blocks	1178.5	Building Area	315.3	Computer	165.8	Computer	132.4	Computer	199.3	Building Area	83.1	Computer
+82.8	Building Area	149.4	Computer	332.1	Building Area	282.1	Building Area	149.4	Building Area	99.5	Building Blocks	215.7	Building Area	116.2	Building Area
+82.4	Building Area	199.3	Computer	481.1	Computer	248.8	Building Area	232.4	Building Blocks	149.3	Building Blocks	265.4	Computer	165.7	Building Area
+132.6	Computer	281.8	Building Blocks	132.5	Computer	232.6	Building Blocks	165.8	Building Blocks	116.2	Building Blocks	83.3	Building Area	199	Building Area
+149.3	Computer	99.7	Building Blocks	265	Computer	165.8	Building Blocks	115.9	Computer	481.4	Building Blocks	431.5	Building Area	182.3	Building Area
+132.8	Building Area	166.1	Building Blocks	132.6	Computer	132.7	Building Blocks	199.2	Computer	132.8	Building Blocks	265.5	Building Area	132.9	Building Area
+199.3	Building Area	481.3	Building Blocks	165.8	Computer	265.2	Building Blocks	348.3	Building Blocks	199.2	Building Area	149.6	Building Area	99.3	Building Area
+166	Building Area	348.5	Computer	132.6	Computer	282.2	Computer	298.7	Computer	332.1	Building Area	730.3	Building Area	465.1	Building Area
+1311.1	Building Area	149.6	Building Area	149.1	Building Blocks	166	Building Blocks	166	Building Blocks	99.6	Computer	248.8	Building Area	198.9	Building Area
+564.3	Building Area	116.2	Computer	298.9	Building Blocks	265.4	Building Blocks	198.7	Building Blocks	232.4	Computer	82.5	Building Area	298.7	Building Area
+149.5	Building Area	82.8	Building Area	132.8	Building Blocks	83.1	Building Blocks	149.2	Building Blocks	199.2	Building Blocks	730.1	Computer	1078.6	Building Area
+99.5	Computer	182.5	Building Area	597.6	Building Blocks	315.3	Computer	398.1	Building Blocks	99.5	Building Blocks	165.5	Computer	431.5	Building Area
+132.7	Building Area	929.8	Computer	365.3	Computer	165.6	Building Blocks	381.9	Building Blocks	232.6	Computer	133.2	Building Area	116.2	Computer
+1294.3	Building Area	149.4	Building Area	99.8	Building Area	149.5	Building Blocks	614	Building Area	132.8	Building Blocks	149.5	Building Area	215.6	Computer
+331.9	Building Area	232.3	Computer	713.4	Building Area	166	Building Blocks	166	Computer	464.7	Building Blocks	99.6	Building Blocks	132.8	Computer
+1178.4	Building Area	182.4	Building Area	962.5	Building Area	597.5	Building Blocks	149.2	Computer	83	Building Area	132.5	Building Blocks	182.3	Computer
+83.1	Building Area	133.1	Building Area	166	Computer	116.2	Building Area	82.7	Building Blocks	414.9	Building Area	780	Building Blocks	149.6	Computer
+348.6	Computer	199.3	Computer	249	Computer	132.9	Building Area	365	Computer	99.5	Computer	132.6	Building Blocks	82.9	Building Blocks
+1360.9	Computer	265.6	Computer	232.4	Computer	165.8	Building Area	497.9	Building Blocks	581.1	Building Area	215.9	Building Blocks	132.6	Building Blocks
+282.2	Building Area	232	Computer	116	Computer	132.9	Computer	232.3	Building Blocks	99.7	Computer	265.7	Building Blocks	166.2	Building Blocks
+199.1	Computer	83.1	Building Blocks	149.5	Building Blocks	115.8	Computer	132.8	Building Blocks	99.5	Computer	398.3	Building Blocks	166.2	Building Blocks
+133	Computer	82.8	Building Blocks	215.7	Building Blocks	116.2	Computer	165.9	Computer	298.6	Building Area	82.7	Building Blocks	248.9	Building Blocks
+415	Computer	215.8	Building Blocks	315.3	Building Blocks	132.9	Computer	215.7	Computer	99.4	Building Area	281.9	Computer	166.1	Building Blocks
+282	Computer	149.4	Building Blocks	215.9	Computer	182.6	Building Blocks	132.8	Building Area	415	Building Area	83.1	Computer	364.9	Building Blocks
+646.7	Computer	215.7	Building Blocks	99.9	Building Area	730.1	Building Blocks	331.9	Building Area	82.9	Computer	249.1	Building Blocks	298.4	Computer
+149.3	Computer	265.3	Computer	99.7	Building Area	132.8	Computer	83	Building Area	879.6	Computer	99.7	Building Blocks	99.7	Building Area
+530.7	Computer	614	Building Area	116.2	Building Area	1344.2	Building Area	331.9	Building Area	116.2	Building Area	215.6	Building Blocks	464.7	Building Area
+182.5	Building Area	431.6	Building Area	149.4	Computer	215.4	Computer	1559.9	Building Area	265.7	Building Area	99.5	Computer	497.9	Computer
+82.9	Building Area	464.6	Building Area	83.1	Computer	132.9	Computer	182.5	Building Area	298.5	Computer	99.3	Computer	182.5	Building Area
+298.9	Building Area	846.3	Building Area	199.2	Computer	232.6	Building Area	548	Building Area	232.3	Computer	265.6	Building Blocks	248.9	Building Area
+216	Building Area	415.3	Computer	165.7	Computer	165.7	Computer	348.5	Building Area	232.5	Computer	431.6	Building Blocks	82.6	Building Area
+746.9	Building Area	514.5	Building Area	166.2	Computer	99.4	Building Area	431.5	Computer	216	Building Blocks	265.7	Building Blocks	199.1	Building Area
+348.3	Building Area	132.7	Building Area	165.8	Building Area	448.4	Building Area	198.7	Computer	165.8	Building Blocks	365	Computer	82.9	Building Area
+115.9	Computer	215.5	Computer	348.7	Building Blocks	83.1	Building Area	199.2	Computer	614.2	Building Blocks	165.8	Building Area	365.2	Computer
+1161.6	Building Area	248.8	Computer	132.9	Building Blocks	215.8	Building Area	149.5	Building Blocks	215.9	Building Blocks	332	Building Area	248.9	Computer
+398.2	Building Area	249	Computer	248.6	Computer	132.9	Building Area	132.8	Building Blocks	149.3	Building Blocks	298.8	Building Area	116.1	Computer
+99.9	Building Area	315.4	Computer	149.5	Building Blocks	166	Building Area	166.1	Building Blocks	763.2	Building Area	133.2	Building Area	215.9	Building Blocks
+182.3	Building Area	149.5	Computer	116.2	Building Blocks	165.7	Building Area	182.4	Building Blocks	298.5	Building Area	564.1	Building Area	182.2	Building Blocks
+265.5	Building Area	149.4	Building Blocks	83	Building Blocks	332.2	Building Area	149.1	Computer	630.6	Building Area	232.2	Building Area	166.2	Building Blocks
+2788	Building Area	132.9	Building Blocks	99.6	Building Blocks	1592.8	Building Area	215.8	Computer	66.8	Building Area	66.4	Computer	182.5	Building Blocks
+729.5	Building Area	232	Building Blocks	165.9	Building Blocks	165.8	Building Area	298.8	Computer	912.9	Building Area	464.9	Computer	149.4	Building Blocks
+149.3	Building Area	166	Building Blocks	332.1	Computer	116.3	Computer	862.8	Building Blocks	248.9	Building Area	116	Building Blocks	249.1	Building Blocks
+166	Building Area	564.2	Building Blocks	199.5	Building Area	365.3	Computer	166	Building Blocks	1245	Building Area	149.3	Building Blocks	265.2	Computer
+132.6	Building Area	281.8	Building Blocks	298.5	Building Area	182.5	Computer	564.5	Building Blocks	448.5	Computer	315.4	Building Blocks	365	Building Area
+99.7	Building Area	166	Building Blocks	249.1	Computer	215.8	Computer	215.7	Building Blocks	282.1	Computer	365.2	Building Blocks	99.5	Computer
+1576.5	Building Area	464.7	Building Area	265.2	Computer	298.8	Building Blocks	165.8	Building Area	166.2	Computer	414.9	Computer	298.9	Computer
+149.1	Building Area	879.2	Building Area	149.5	Computer	165.7	Building Blocks	846.6	Building Area	99.6	Building Blocks	232.2	Building Blocks	132.6	Building Blocks
+282.1	Building Area	182.8	Computer	99.4	Building Blocks	182.7	Building Blocks	99.5	Building Area	99.6	Building Blocks	166	Building Area	116	Building Blocks
+315.2	Building Area	199.1	Computer	115.8	Building Blocks	331.9	Building Blocks	298.9	Building Area	215.9	Building Blocks	431.5	Building Area	464.4	Building Blocks
+99.3	Building Area	216	Computer	232.3	Building Blocks	132.7	Building Blocks	248.9	Building Area	331.5	Computer	182.6	Computer	116.2	Computer
+215.8	Building Area	132.7	Building Area	82.9	Building Area	116.1	Computer	696.9	Building Area	912.9	Building Area	746.9	Building Area	265.5	Building Area
+165.9	Building Area	166.1	Building Area	232.4	Building Area	348.5	Computer	99.4	Building Area	116.3	Computer	232.4	Building Area	1145.3	Building Area
+166.1	Building Area	796.7	Building Area	115.7	Computer	99.6	Building Area	116.1	Computer	298.6	Computer	132.8	Building Area	531	Building Area
+448.2	Building Area	149.6	Building Area	149.2	Computer	149.4	Building Area	149.2	Computer	165.6	Computer	1029	Building Area	99.9	Building Area
+198.9	Building Area	149.6	Building Area	713.6	Building Area	365	Building Area	215.9	Computer	199.3	Computer	83.2	Computer	365.2	Building Area
+82.6	Computer	215.8	Building Area	614.2	Building Area	597.5	Building Area	166	Computer	133	Building Blocks	348.4	Computer	796.5	Building Area
+199	Computer	248.9	Building Area	149.3	Building Area	2356.7	Building Area	497.8	Computer	116.4	Building Blocks	99.5	Building Area	248.8	Computer
+397.9	Computer	381.6	Building Area	414.7	Building Area	215.9	Building Blocks	165.9	Building Blocks	332.2	Building Blocks	165.9	Computer	298.5	Computer
+282.3	Computer	896.4	Building Area	680.5	Building Area	182.3	Building Blocks	83	Building Blocks	232.2	Building Area	83.1	Computer	215.8	Computer
+282.1	Computer	82.6	Computer	182.2	Building Area	83	Building Blocks	215.7	Building Blocks	1244.7	Building Area	398.3	Building Blocks	116.2	Computer
+132.9	Computer	298.9	Computer	166	Building Area	132.8	Building Blocks	132.5	Building Area	248.8	Computer	863.1	Building Blocks	116.2	Building Blocks
+149.1	Building Blocks	348.6	Computer	99.2	Computer	116.2	Computer	846.5	Building Area	182.7	Computer	82.9	Building Area	132.7	Building Blocks
+99.3	Building Blocks	166.2	Computer	116.1	Computer	199.3	Computer	132.9	Computer	182.6	Computer	1958.1	Building Area	182.5	Building Blocks
+165.8	Building Blocks	99.6	Building Blocks	232.1	Computer	116.2	Building Area	231.9	Computer	265.3	Building Blocks	166	Building Area	265.6	Building Blocks
+165.9	Building Blocks	232.5	Building Blocks	199.3	Computer	497.7	Building Area	132.7	Computer	248.9	Building Area	1078.9	Building Area	331.9	Building Blocks
+149.4	Building Blocks	133.1	Building Blocks	166.1	Building Blocks	166.3	Computer	199.4	Computer	116	Building Area	398.3	Computer	1726	Building Area
+132.8	Building Blocks	265.4	Building Blocks	149.1	Building Blocks	464.4	Computer	182.6	Computer	99.4	Building Area	165.7	Computer	282	Building Area
+99.2	Computer	232.4	Computer	165.8	Building Blocks	149.1	Computer	663.7	Building Blocks	846.4	Building Area	166.1	Computer	381.9	Building Area
+331.9	Computer	116.1	Building Area	464.7	Building Blocks	149.4	Computer	132.9	Building Blocks	132.8	Computer	166	Building Blocks	1560	Building Area
+116.2	Building Blocks	813.2	Building Area	332	Computer	630.8	Building Blocks	365.1	Building Area	182.8	Computer	99.7	Building Blocks	1128.6	Building Area
+165.9	Building Blocks	132.9	Computer	182.4	Building Area	116	Building Area	149.7	Building Area	99.9	Computer	149.2	Building Blocks	115.7	Building Area
+166.1	Building Blocks	249.1	Computer	1410.5	Building Area	1692.9	Building Area	1095.3	Building Area	282.3	Computer	165.7	Building Blocks	199.1	Building Area
+265.5	Building Blocks	199.1	Computer	232.6	Building Area	116	Building Area	1145	Building Area	182.4	Computer	995.5	Building Area	630.8	Building Area
+215.5	Building Blocks	232.1	Computer	447.7	Building Area	1078.5	Building Area	199.1	Computer	165.6	Computer	132.7	Computer	99.3	Building Area
+99.9	Building Area	680.6	Building Blocks	82.9	Computer	149.4	Building Area	332.3	Computer	133.1	Building Blocks	166.1	Computer	215.7	Building Area
+149.3	Building Area	630.5	Building Area	132.8	Computer	82.8	Computer	248.9	Computer	132.7	Building Blocks	199	Computer	248.9	Building Area
+116.3	Building Area	929.4	Building Area	149.4	Building Area	165.9	Computer	381.6	Computer	580.9	Building Blocks	149.1	Computer	497.8	Building Area
+149.5	Computer	83.5	Building Area	1062.3	Building Area	165.8	Computer	248.6	Building Blocks	265.4	Building Area	165.6	Building Blocks	332.3	Building Area
+149.2	Computer	99.6	Computer	232.1	Building Area	182.3	Computer	99.8	Building Blocks	498.1	Building Area	331.8	Building Blocks	165.9	Building Area
+182.5	Building Area	166	Computer	99.4	Building Area	132.8	Computer	116.1	Building Blocks	149.5	Computer	1908.6	Building Area	249	Building Area
+149.5	Building Area	298.8	Building Area	199.2	Building Area	248.8	Building Blocks	99.6	Building Blocks	514.4	Computer	1476.7	Building Area	215.6	Building Area
+99.7	Building Blocks	199.4	Computer	116	Building Area	116.2	Building Blocks	398.3	Computer	99.3	Building Area	248.7	Computer	962.5	Building Area
+132.6	Building Blocks	83	Computer	99.7	Computer	779.9	Building Area	116	Computer	580.8	Building Area	115.9	Building Area	215.9	Building Area
+481	Building Blocks	149.4	Computer	133	Computer	149.6	Computer	116.4	Building Area	464.6	Building Area	381.9	Computer	182.7	Building Area
+182.6	Building Blocks	83.4	Building Blocks	99.6	Computer	414.7	Building Area	448	Building Area	199.1	Building Area	215.8	Computer	149.2	Computer
+199.5	Building Area	149.6	Building Blocks	149.3	Computer	199.3	Building Area	182.8	Building Blocks	248.6	Building Area	165.9	Building Blocks	249	Computer
+1344.3	Building Area	249.1	Building Blocks	414.6	Computer	199.2	Building Area	182.5	Building Blocks	149.4	Building Blocks	116.3	Building Blocks	166	Computer
+148.9	Building Area	448	Building Area	132.6	Building Blocks	514.2	Computer	497.7	Building Blocks	99.7	Building Blocks	166	Building Blocks	116.4	Computer
+398.3	Computer	116.2	Building Area	116.1	Building Blocks	166.2	Computer	149.4	Building Blocks	713.7	Building Blocks	132.9	Building Area	132.6	Building Blocks
+149.4	Building Area	364.8	Building Area	132.7	Building Blocks	116.1	Computer	946	Building Blocks	249	Building Area	912.9	Building Area	83.3	Building Blocks
+1112.1	Building Area	99.4	Computer	149.1	Building Blocks	149.4	Building Blocks	215.2	Computer	1061.9	Building Area	331.9	Building Area	199.1	Building Blocks
+315.2	Building Area	99.5	Computer	365.1	Building Blocks	83	Building Blocks	249	Computer	381.7	Building Area	149.2	Building Area	199.1	Building Area
+315.4	Building Area	99.5	Computer	315.2	Computer	381.7	Building Blocks	647.3	Computer	216	Building Area	497.7	Building Area	265.5	Building Area
+232.3	Building Area	116.1	Building Area	149.4	Building Area	149.4	Building Blocks	165.9	Building Area	116.1	Computer	249	Building Area	597.5	Building Area
+382	Building Area	298.8	Building Area	1095.4	Building Area	149.2	Building Blocks	99.5	Building Area	83.1	Computer	265.3	Building Area	464.7	Computer
+199.1	Building Area	82.8	Computer	331.9	Computer	547.8	Building Blocks	166.1	Computer	132.4	Computer	166.2	Building Area	116.5	Computer
+348.6	Building Area	82.9	Computer	132.8	Computer	530.9	Building Blocks	99.6	Computer	232.2	Computer	282	Computer	166	Computer
+83	Computer	664	Building Area	199.2	Computer	232.3	Building Blocks	182.7	Computer	182.9	Computer	232.1	Computer	132.9	Building Blocks
+132.7	Computer	198.5	Building Area	149.1	Computer	265.8	Building Area	581	Building Area	630.8	Building Blocks	165.8	Computer	99.6	Building Blocks
+298.8	Computer	199.3	Building Area	248.8	Building Blocks	83.1	Computer	929.5	Building Area	348.7	Building Blocks	149.3	Building Blocks	132.8	Building Blocks
+99.7	Building Area	116.3	Computer	66.6	Building Blocks	99.6	Computer	248.6	Building Area	116	Building Blocks	580.8	Building Blocks	116.6	Building Blocks
+232.3	Building Area	132.7	Computer	265.3	Building Blocks	580.7	Computer	812.9	Building Area	99.8	Building Blocks	913.1	Building Blocks	99.6	Building Blocks
+132.9	Building Area	232.3	Computer	132.8	Building Area	165.8	Computer	282.1	Building Area	182.6	Building Area	215.5	Building Area	132.6	Building Blocks
+116.4	Computer	116.2	Computer	199.2	Building Area	132.6	Computer	1195.1	Building Area	846.5	Building Area	99.7	Computer	232.2	Building Blocks
+199	Computer	165.9	Computer	929.1	Building Area	248.8	Building Area	166.1	Building Area	199.4	Computer	199.3	Computer	315	Computer
+132.8	Computer	265.3	Building Blocks	464.8	Computer	215.8	Building Area	281.9	Building Area	630.6	Building Area	132.6	Building Area	115.9	Building Area
+248.8	Computer	116.1	Building Blocks	232.2	Computer	116.5	Building Area	348.6	Computer	680.3	Building Area	99.7	Building Area	547.2	Building Area
+165.9	Building Area	116.3	Building Blocks	116.4	Computer	149.4	Computer	132.9	Building Blocks	199.3	Building Area	182	Building Area	796.6	Building Area
+149.4	Building Area	332.2	Computer	115.9	Building Blocks	132.8	Computer	116	Building Blocks	381.9	Building Area	182.5	Building Area	116.2	Building Area
+116.3	Computer	182.7	Building Area	298.5	Building Blocks	116.3	Computer	265.6	Building Blocks	116.3	Building Area	83	Building Area	481.2	Building Area
+116	Computer	149.2	Computer	99.5	Building Area	498.1	Building Area	99.6	Building Blocks	149.1	Building Area	149.5	Computer	763.6	Building Area
+199.3	Computer	215.8	Building Blocks	1095.3	Building Area	99.5	Computer	431.4	Building Blocks	896.2	Building Area	315.5	Computer	132.6	Computer
+132.6	Building Area	232.7	Building Blocks	83	Building Blocks	282	Computer	365	Computer	165.9	Building Area	1377.6	Building Area	199	Computer
+83.1	Computer	298.7	Building Blocks	232.4	Building Blocks	166.1	Building Area	132.8	Computer	199.3	Building Area	99.8	Computer	182.5	Computer
+414.7	Computer	182.7	Building Blocks	464.4	Building Blocks	365	Building Area	132.8	Computer	132.6	Building Area	99.9	Computer	249	Computer
+82.9	Building Area	348.7	Building Blocks	448.3	Computer	580.8	Building Area	182.2	Computer	66.4	Computer	115.9	Computer	630.8	Building Blocks
+198.9	Building Area	846.2	Building Blocks	199.1	Computer	364.9	Building Area	116.1	Building Area	199.1	Computer	813	Building Area	99.5	Building Area
+116.5	Computer	100.1	Computer	497.7	Computer	1012.4	Building Area	265.4	Building Area	99.5	Building Area	2058	Building Area	149.5	Computer
+99.3	Computer	498.3	Computer	132.7	Building Blocks	116.2	Building Area	149.2	Computer	166	Building Area	398.5	Building Area	83.1	Computer
+165.8	Computer	149.1	Building Area	116	Building Blocks	99.6	Building Area	182.4	Computer	116.2	Building Area	1012.2	Building Area	99.5	Building Area
+199.3	Computer	298.7	Building Area	83.1	Building Blocks	83.1	Building Blocks	232	Computer	83	Computer	298.7	Building Area	398.3	Building Area
+83	Computer	646.8	Computer	199	Building Blocks	149.1	Building Blocks	1510.4	Building Area	199.6	Computer	348.3	Building Area	132.7	Building Area
+132.7	Building Area	398.1	Building Area	116.2	Building Blocks	83.1	Building Blocks	232.2	Building Area	282	Computer	796.6	Building Area	132.8	Building Area
+83	Computer	132.8	Computer	149.4	Building Blocks	199.3	Building Blocks	249.3	Building Area	365.1	Computer	514.4	Building Area	730.2	Building Area
+116.1	Computer	149.2	Computer	99.5	Building Blocks	116.3	Building Blocks	83	Building Area	99.4	Building Blocks	647.2	Building Area	116	Building Area
+116.2	Building Area	83.1	Computer	481.2	Building Blocks	265.6	Building Blocks	1393.8	Building Area	232.3	Building Blocks	282.1	Building Area	945.8	Building Area
+282.1	Computer	99.5	Building Area	116.4	Building Blocks	82.9	Building Blocks	215.6	Building Area	182.3	Building Blocks	182.3	Building Area	115.7	Building Area
+99.5	Computer	116.3	Building Area	398.3	Building Blocks	132.8	Computer	149	Building Blocks	99.8	Building Blocks	248.3	Building Area	116	Computer
+149.5	Computer	780.3	Building Area	249	Computer	199.1	Computer	165.8	Building Blocks	132.8	Building Blocks	1493.8	Building Area	315.2	Computer
+199.4	Building Blocks	464.4	Building Area	282.3	Computer	132.7	Computer	149.4	Building Blocks	149.5	Building Blocks	282	Building Area	232.3	Computer
+132.8	Building Blocks	448.3	Building Area	265.2	Building Area	199.1	Computer	315.3	Building Blocks	381.9	Building Blocks	149.7	Building Blocks	132.6	Computer
+215.4	Building Blocks	232.6	Building Area	298.5	Building Area	365	Building Blocks	415	Computer	265.2	Building Blocks	381.8	Building Blocks	116.2	Building Blocks
+149.4	Building Area	199.1	Building Area	99.5	Computer	182.5	Building Blocks	1062.1	Building Area	414.9	Building Area	697.1	Building Blocks	232.2	Building Blocks
+298.3	Building Area	1128.3	Building Area	182.5	Computer	332.1	Building Blocks	348.5	Building Area	116.2	Building Area	199	Building Blocks	282	Building Blocks
+132.8	Building Blocks	232	Building Area	82.7	Building Area	232.3	Building Area	132.9	Building Area	332	Building Area	199.2	Building Area	281.8	Computer
+465.1	Building Blocks	149.5	Building Area	182.6	Building Area	132.6	Computer	99.7	Building Area	514.5	Computer	132.8	Computer	364.9	Building Area
+66.5	Computer	348.6	Computer	730.1	Building Area	116.4	Computer	514.4	Computer	829.9	Building Area	315.7	Computer	116.3	Building Area
+82.8	Computer	132.6	Computer	82.9	Building Area	398.4	Building Area	99.9	Building Area	1842.3	Building Area	265.7	Computer	481.3	Computer
+82.9	Building Blocks	116	Computer	398.3	Building Area	115.9	Building Area	83	Building Area	332	Building Area	116.3	Computer	182.2	Building Area
+248.8	Building Blocks	116.3	Computer	83	Building Area	215.9	Building Area	464.8	Building Area	182.4	Building Area	265.1	Building Area	879.4	Building Area
+149.2	Building Area	99.9	Building Blocks	1244.9	Building Area	248.8	Building Area	232.7	Computer	199.3	Building Area	232.3	Building Area	1161.7	Building Area
+99.6	Building Area	199.1	Building Blocks	182.1	Building Area	116	Computer	282.3	Computer	99.5	Computer	713.9	Building Area	149.5	Building Blocks
+149.4	Building Area	99.5	Building Blocks	481.3	Building Area	132.7	Computer	232.2	Building Area	680.5	Building Area	265.5	Building Area	248.9	Building Blocks
+315.3	Computer	165.9	Building Blocks	132.6	Computer	1128.5	Building Area	199	Building Area	398.6	Computer	1443.7	Building Area	99.8	Building Blocks
+249	Computer	315.4	Building Blocks	132.8	Computer	796.5	Building Area	481.3	Building Area	331.8	Computer	315.4	Building Area	149.4	Building Blocks
+182.6	Computer	116.1	Building Blocks	199.3	Computer	149.5	Building Area	879.2	Computer	199	Computer	381.6	Building Area	464.8	Building Blocks
+265.7	Computer	116.1	Building Area	497.9	Computer	630.4	Building Area	165.7	Building Blocks	166	Computer	166	Building Area	282.1	Computer
+133	Computer	282.2	Building Area	83.1	Building Blocks	82.8	Computer	281.8	Building Blocks	99.5	Building Blocks	182.5	Building Area	116	Building Area
+149.2	Building Blocks	730	Building Area	199.1	Building Blocks	265.7	Computer	133.1	Building Blocks	149.5	Building Blocks	1261.4	Building Area	713.6	Building Area
+149.5	Building Blocks	132.9	Building Blocks	232.1	Building Blocks	116.2	Computer	265.6	Building Blocks	531.2	Building Blocks	315.3	Building Area	166	Computer
+132.7	Building Blocks	265.4	Building Blocks	132.8	Building Blocks	199.3	Computer	630.6	Building Blocks	514.4	Building Blocks	265.5	Building Area	215.8	Computer
+215.7	Building Blocks	514.6	Building Area	166	Building Blocks	232.4	Computer	1029	Building Blocks	182.1	Computer	133.1	Computer	215.8	Building Area
+99.4	Computer	182.5	Building Area	647.2	Building Blocks	215.6	Building Blocks	381.4	Building Area	249	Computer	282	Computer	166.1	Building Area
+215.6	Computer	265.6	Building Area	99.5	Computer	182.9	Building Blocks	1643	Building Area	182.8	Building Blocks	166	Building Area	315.1	Building Area
+116	Computer	1111.8	Building Area	265.6	Computer	132.6	Building Blocks	530.7	Building Area	447.9	Building Blocks	149.3	Building Area	298.8	Building Area
+182.7	Building Blocks	315.4	Building Area	116.2	Computer	299	Building Blocks	83	Building Area	165.4	Building Area	116.6	Building Area	133.1	Computer
+614.3	Building Blocks	265.6	Building Area	116.1	Building Area	547.8	Building Area	99.4	Computer	99.6	Building Area	116.2	Computer	232.2	Computer
+265.6	Computer	182.2	Computer	912.4	Building Area	116	Computer	182.4	Computer	199.1	Building Area	116.2	Computer	514.6	Building Blocks
+182.7	Building Area	199.3	Computer	215.7	Building Area	182.3	Computer	298.8	Computer	149.4	Computer	199.3	Building Area	531	Building Blocks
+199.3	Building Area	315.6	Computer	630.3	Building Area	182.3	Building Area	248.9	Computer	66.4	Computer	165.9	Computer	182.7	Computer
+315.3	Building Area	497.9	Computer	1128.3	Computer	282.1	Building Area	66.4	Building Blocks	115.8	Building Area	232	Computer	182.8	Computer
+132.7	Computer	215.4	Computer	116.1	Building Area	1393.7	Building Area	165.8	Building Blocks	597.6	Building Area	182.5	Computer	133	Building Area
+166	Computer	199.4	Building Blocks	365.3	Building Area	232.5	Building Area	249	Building Blocks	132.6	Computer	165.9	Building Area	265.4	Building Area
+232.1	Computer	182.5	Building Blocks	182.7	Building Area	1958	Building Area	481.3	Building Area	199.2	Computer	116.1	Building Blocks	132.5	Building Area
+166.3	Computer	132.9	Building Blocks	83	Building Area	514.5	Computer	1062.3	Building Area	215.8	Computer	83	Building Blocks	83.1	Computer
+199.2	Building Blocks	132.6	Building Blocks	182.1	Computer	564.4	Computer	414.9	Computer	166.1	Computer	182.6	Building Blocks	82.8	Building Area
+116.1	Building Blocks	248.7	Building Blocks	232.5	Computer	265.6	Building Blocks	199.3	Computer	99.5	Building Blocks	83.3	Building Blocks	149.4	Building Area
+83	Building Blocks	199.1	Building Blocks	348.7	Computer	99.6	Building Blocks	149.4	Computer	66.6	Building Blocks	149.5	Building Blocks	331.9	Building Area
+232.4	Building Blocks	713.4	Computer	348.7	Computer	166.1	Building Blocks	132.6	Computer	116.3	Building Blocks	132.6	Building Blocks	348.3	Building Area
+315.3	Building Blocks	166	Computer	348.6	Computer	431.5	Building Blocks	165.5	Building Area	265.3	Building Blocks	232.4	Building Blocks	630.5	Building Area
+82.8	Building Area	116.2	Building Area	199	Computer	232.2	Building Blocks	1029.1	Building Area	713.6	Building Area	381.5	Computer	680.4	Building Area
+381.5	Building Area	232.4	Building Area	99.7	Building Area	447.9	Building Blocks	563.8	Building Area	348.5	Computer	83.3	Building Area	116.3	Building Area
+83.1	Computer	182.4	Computer	597.4	Building Area	448.3	Computer	431.6	Building Area	348.2	Building Area	149.5	Building Area	249	Building Area
+381.7	Computer	514.7	Building Area	879.5	Building Area	1808.9	Building Area	332.1	Building Area	132.8	Building Area	580.9	Building Area	481.2	Building Area
+165.7	Building Area	116	Computer	165.8	Building Area	215.9	Building Area	182.5	Building Area	248.5	Computer	248.9	Building Area	149.4	Building Area
+2107.8	Building Area	149.1	Building Area	663.7	Building Area	564.1	Building Area	282.4	Building Area	414.9	Computer	481.4	Building Area	282.1	Building Area
+448.1	Building Area	99.5	Building Area	165.7	Building Area	199.1	Building Area	116.2	Computer	132.8	Building Area	663.6	Building Area	116.5	Building Area
+132.9	Building Area	448.2	Building Area	232.5	Building Area	182.6	Building Area	248.9	Building Area	132.5	Building Area	315.3	Building Area	1144.8	Building Area
+829.7	Computer	149.4	Computer	464.5	Building Area	1310.9	Building Area	149.4	Computer	199.3	Building Area	132.8	Building Area	381.2	Building Area
+99.9	Building Area	99.5	Computer	166	Building Area	132.8	Building Area	165.9	Computer	315.2	Building Area	199.1	Building Area	481.3	Computer
+796.7	Building Area	132.9	Building Area	431.5	Building Area	82.9	Computer	116.1	Computer	364.9	Building Area	215.8	Building Area	149.4	Computer
+99.6	Computer	99.6	Building Area	116	Computer	215.8	Computer	99.4	Building Area	448.4	Building Area	248.7	Building Area	265.7	Computer
+713.6	Computer	116.2	Building Area	132.6	Computer	199.3	Computer	82.9	Building Area	282	Building Area	149.1	Computer	248.8	Building Blocks
+115.9	Building Area	1377.5	Building Area	99.7	Computer	182.5	Computer	265.6	Building Area	116.3	Building Area	398.4	Computer	99.5	Building Blocks
+199	Building Area	1045.4	Building Area	232	Computer	116.4	Building Blocks	132.9	Building Area	813.1	Building Area	83	Computer	298.6	Building Blocks
+298.6	Building Area	165.9	Computer	133.1	Building Area	248.8	Building Blocks	464.6	Computer	315.5	Building Area	66.4	Computer	431.4	Building Blocks
+82.5	Building Area	580.5	Computer	348.5	Building Area	1792.6	Building Area	149.7	Computer	299	Building Area	182.3	Building Area	215.7	Building Area
+265.6	Building Area	481.4	Computer	132.6	Building Area	132.8	Building Area	116.3	Building Area	248.8	Building Area	133.1	Building Area	282.1	Building Area
+165.8	Building Area	265.5	Building Blocks	132.7	Building Area	397.9	Building Area	166	Building Area	249.2	Building Area	165.6	Building Area	165.4	Building Area
+132.9	Computer	132.8	Building Blocks	216	Computer	82.8	Computer	265.6	Computer	564.1	Building Area	99.3	Computer	249.1	Building Area
+83.1	Computer	331.8	Building Blocks	348.5	Computer	464.6	Computer	398.4	Computer	614.4	Building Area	265.5	Computer	365.2	Building Area
+116.2	Building Area	497.9	Building Blocks	166.1	Building Area	215.9	Computer	115.9	Building Area	182.6	Building Area	99.6	Building Area	514.5	Building Area
+249	Computer	232.1	Building Blocks	730.6	Building Area	232.4	Building Area	182.7	Building Area	348.4	Computer	199.2	Building Area	779.8	Building Area
+332	Computer	99.3	Computer	414.7	Building Area	331.9	Building Area	298.5	Building Area	282.1	Computer	248.9	Building Area	149.6	Building Area
+232.4	Computer	365.1	Computer	365.4	Computer	298.6	Building Area	248.9	Building Area	249.1	Computer	149.4	Building Area	514.5	Building Area
+83.2	Building Blocks	115.8	Building Blocks	198.9	Building Area	199	Building Area	447.5	Computer	182.4	Building Area	248.9	Building Area	232.4	Building Area
+116.3	Building Blocks	232.5	Building Blocks	182.5	Building Area	1128.3	Building Area	99.3	Building Area	149.4	Building Area	232.6	Building Area	166.1	Building Area
+315.3	Building Blocks	116.3	Building Area	663.9	Building Area	149.1	Building Area	165.8	Building Area	99.4	Building Area	182.5	Computer	232.6	Building Area
+199.2	Building Blocks	182.4	Computer	1294.1	Building Area	315	Building Area	265.6	Building Area	215.8	Building Area	166	Computer	497.9	Building Area
+215.8	Computer	99.3	Computer	614	Building Area	862.5	Building Area	348.3	Building Area	530.9	Computer	165.8	Computer	398	Building Area
+813.5	Computer	133	Building Area	116.1	Computer	199.1	Building Area	166.1	Computer	132.6	Building Area	298.8	Computer	82.8	Building Area
+99.5	Building Blocks	1526.7	Building Area	282.1	Computer	531.1	Building Area	431.9	Computer	215.9	Building Area	182.4	Computer	348.7	Computer
+431.5	Building Blocks	398.1	Building Area	464.6	Computer	133	Building Area	99.7	Building Area	116.4	Computer	166	Building Area	149.4	Computer
+149.3	Computer	381.7	Building Area	116.4	Computer	165.7	Building Area	215.6	Building Area	215.4	Computer	99.5	Computer	182.2	Computer
+115.9	Computer	82.8	Computer	199.2	Building Area	497.8	Building Area	116.3	Building Area	182.6	Computer	365	Computer	99.6	Computer
+165.9	Building Area	215.6	Computer	99.5	Building Blocks	182.5	Building Area	215.7	Computer	166	Computer	630.4	Computer	116.1	Computer
+763.6	Building Area	149.2	Building Area	99.6	Building Blocks	83	Building Area	364.9	Computer	132.8	Computer	298.7	Computer	166.1	Computer
+746.8	Building Area	199.2	Building Area	398.4	Building Blocks	415.1	Building Area	248.8	Building Area	116.2	Building Area	182.4	Building Blocks	282.3	Building Blocks
+1178.4	Building Area	381.8	Building Area	198.9	Computer	232.2	Building Area	331.9	Building Area	116	Building Area	232.2	Building Blocks	132.8	Building Blocks
+116.1	Building Area	531.4	Computer	348.7	Computer	116.5	Building Area	99.4	Building Area	265.5	Building Area	115.9	Building Blocks	149.3	Building Blocks
+99.6	Computer	166	Computer	248.8	Building Area	282.3	Building Area	182.6	Building Area	199.3	Computer	547.6	Building Blocks	149.2	Building Blocks
+497.9	Computer	199.1	Computer	199.1	Computer	547.5	Building Area	149.1	Computer	232.3	Computer	116.4	Computer	780	Building Blocks
+166.4	Building Area	116.1	Building Blocks	415.5	Building Area	730.4	Building Area	166.3	Computer	116.2	Computer	249	Computer	116.1	Building Blocks
+116.1	Building Area	132.6	Building Blocks	1277.5	Building Area	232.4	Building Area	82.5	Building Area	116.1	Building Area	83	Building Area	248.9	Building Blocks
+182.5	Building Area	132.8	Building Blocks	315.1	Building Area	132.8	Building Area	232.2	Building Area	132.9	Building Area	182.4	Building Area	82.9	Building Blocks
+82.8	Building Area	132.8	Building Blocks	646.9	Building Area	83.1	Computer	282.2	Computer	215.5	Building Area	530.9	Building Area	83	Building Blocks
+497.4	Computer	315.4	Building Blocks	447.7	Building Area	99.7	Computer	149.4	Computer	99.5	Computer	165.9	Computer	1078.7	Building Blocks
+282.3	Building Area	116.3	Building Area	82.8	Computer	165.9	Computer	215.8	Building Area	315.1	Computer	199.4	Computer	348.5	Building Area
+962.8	Building Area	995.4	Building Area	149.2	Computer	232.3	Building Area	199.3	Building Area	713.6	Computer	298.5	Building Area	1095.3	Building Area
+166	Building Area	365.1	Computer	863	Computer	99.5	Building Area	315.1	Building Area	182.5	Building Area	99.7	Building Area	912.6	Building Area
+431.7	Building Area	82.9	Building Area	83.1	Building Area	99.6	Computer	381.8	Building Area	83.1	Computer	215.7	Computer	215.9	Building Area
+1775.8	Building Area	929.6	Building Area	83	Building Blocks	182.6	Computer	282.1	Building Area	166	Building Area	132.9	Computer	232.2	Computer
+149.2	Computer	116	Building Area	182.3	Building Blocks	99.4	Computer	1095.3	Building Area	232.6	White Space	448.2	Building Area	448.1	Computer
+66.6	Computer	182.4	Building Area	315.3	Building Blocks	99.2	Building Area	165.5	Building Area	133	White Space	331.8	Building Area	166	Computer
+315.4	Computer	282.1	Building Area	663.9	Building Blocks	182.6	Building Area	464.9	Building Area	332	White Space	348.2	Computer	132.9	Computer
+149.4	Computer	447.8	Building Area	613.9	Computer	215.7	Building Area	166.2	Building Area	199	White Space	149.7	Building Area	149.2	Building Blocks
+298.5	Computer	497.7	Building Area	298.5	Building Area	66.7	Computer	182.3	Building Area	99.7	White Space	149.2	Building Area	149.3	Building Blocks
+149.4	Computer	1177.8	Building Area	232.1	Computer	83.1	Computer	166	Building Area	331.9	White Space	199.3	Computer	315.3	Building Blocks
+182.6	Computer	415	Building Area	199.1	Building Area	547.6	Computer	282.4	Computer	348.5	Computer	265.1	Computer	282.4	Building Area
+99.3	Computer	116.4	Building Area	133.2	Building Area	116.5	Building Area	464.8	Computer			182.5	Computer	165.9	Building Area
+597.3	Computer	83	Building Area	1393.5	Building Area	398.7	Building Area	232.3	Computer			165.9	Computer	1062	Building Area
+149.1	Computer	514.6	Building Area	481.3	Computer	248.6	Computer	99.6	Building Area			165.9	Building Blocks	298.4	Building Area
+116.2	Computer	215.6	Building Area	232.2	Building Area	149.3	Computer	116.1	Building Area			99.8	Building Blocks	249.1	Building Area
+332	Computer	149.5	Building Area	564.3	Building Area	149.3	Building Area	82.6	Computer			249.1	Building Blocks	199	Computer
+597	Computer	945.6	Building Area	564.3	Building Area	282.1	Building Area	199.3	White Space			315.5	Building Area	199.1	Computer
+182.7	Building Blocks	199.3	Building Area	149.5	Computer	464.6	Building Area	282.3	Building Area			1676.3	Building Area	265.6	Computer
+215.7	Building Blocks	83.2	Computer	365.1	Computer	216.2	Computer	315.1	Building Area			381.9	Building Area	232.3	Building Area
+166	Building Blocks	182.9	Building Area	315.3	Building Area	232.4	Computer	199.2	White Space			680.2	Building Area	315.4	Building Area
+149.3	Building Blocks	763.1	Building Area	116.4	Computer	166.2	Computer	282.4	White Space			116	Building Area	1145.3	Building Area
+315.2	Building Blocks	99.7	Building Area	132.8	Computer	166.1	Computer	182.4	White Space			331.9	Building Area	597.4	Building Area
+248.9	Building Area	448.2	Building Area	282	Computer	149.1	Computer	232.4	Computer			315.4	Building Area	132.3	Building Area
+265.5	Building Area	116.2	Building Area	99.6	Building Blocks	132.8	Building Area					215.8	Building Area	265.4	Building Area
+149.1	Computer	265.5	Building Area	99.5	Building Blocks	182.6	Building Area					1029.1	Building Area	464.8	Building Area
+116.1	Computer	232.4	Building Area	99.5	Building Blocks	349	Computer					514.3	Building Area	182.5	Building Area
+1327.6	Building Area	1394.3	Building Area	315.3	Building Area	215.5	Computer					232.2	Building Area	597.5	Building Area
+232.5	Computer	331.7	Building Area	1360.9	Building Area	215.7	Building Area					132.4	Building Area	415.1	Building Area
+381.8	Computer	116.2	Building Area	149.5	Building Area	182.7	Building Area					149.5	Building Area	149.1	Building Area
+182.7	Computer	398.3	Building Area	165.9	Building Area	99.5	Computer					1012.1	Building Area	232.4	Building Area
+149.4	Building Blocks	580.6	Building Area	564.2	Building Area	116.2	Computer					115.7	Building Area	133	Building Area
+116.1	Building Blocks	481.3	Building Area	248.9	Building Area	382	Building Area					315.3	Building Area	215.9	Building Area
+166	Building Blocks	497.8	Building Area	381.8	Building Area	199	Building Area					281.8	Building Area	232.5	Building Area
+99.4	Building Blocks	249	Building Area	298.6	Building Area	149.7	Building Area					215.8	Building Area	83	Computer
+298.6	Building Blocks	149.4	Building Area	580.5	Building Area	265.7	Building Area					215.6	Building Area	82.8	Computer
+597.4	Computer	83.1	Computer	265.5	Building Area	132.8	Computer					281.9	Computer	299	Computer
+780.2	Building Blocks	83.1	Building Area	232	Building Area	232.3	Computer					265.6	Computer	116.3	Building Area
+381.5	Building Area	165.8	Computer	199	Building Area	116.2	Computer					248.9	Computer	116	Building Area
+66.2	Building Area	348.3	Computer	199.2	Building Area	282	Building Area					149.3	Computer	82.8	Building Area
+165.8	Computer	232.5	Computer	332.2	Building Area	149.7	Building Area					547.7	Computer	414.5	Computer
+215.8	Computer	116	Computer	547.8	Building Area	182.6	Building Area					116.4	Computer	298.6	Building Area
+116.1	Building Area	132.8	Building Area	298.9	Building Area	99.6	Building Area					415.2	Building Area	149.2	Building Area
+1145.1	Building Area	564.4	Building Area	99.7	Building Area	82.9	Building Area					282.3	Building Area	498	Computer
+381.3	Computer	265.3	Building Area	165.8	Building Area	182.7	Building Area					182.6	White Space	514.7	Computer
+282	Computer	281.8	Building Area	547.3	Building Area	82.8	Computer					249	White Space	116.1	Building Area
+166.1	Computer	430.9	Building Area	481.3	Building Area	265.9	Computer					182.6	White Space	166.2	Building Area
+83.1	Building Blocks	199.1	Building Area	480.8	Building Area	398.3	Computer					149.4	White Space	99.8	Computer
+215.8	Building Blocks	166	Building Area	116.2	Building Area	298.7	Computer					332.1	White Space	514	Computer
+132.5	Building Blocks	1112	Building Area	232.3	Computer	216	Computer					149.6	White Space	83	Building Area
+597.3	Building Blocks	149.4	Building Area	282.3	Computer	116.1	White Space					182.4	Computer	83.3	Building Area
+166	Building Area	580.7	Building Area	497.7	Building Area	182.5	White Space							149.3	Computer
+132.7	Computer	149.5	Building Area	332	Building Area	132.8	White Space							182.5	Computer
+149.7	Computer	448	Building Area	265.9	Building Area	166	White Space							331.7	Computer
+680.4	Building Area	182.5	Building Area	564.6	Building Area	497.9	White Space							315.1	Building Area
+165.9	Computer	182.4	Building Area	597.4	Building Area	199.2	Computer							132.8	Building Area
+879.7	Computer	232.5	Building Area	547.6	Building Area									348.6	Building Area
+730.1	Building Area	166.1	Building Area	298.9	Building Area									149.4	Building Area
+215.7	Computer	249.1	Building Area	182.8	Building Area									132.7	Computer
+497.7	Computer	564	Building Area	215.7	Building Area									248.9	Computer
+182.7	Building Area	282	Building Area	166.3	Building Area									182.6	Computer
+166	Building Area	548	Building Area	282	Building Area									116.2	Computer
+182.2	Building Area	331.9	Building Area	215.6	Building Area									149.3	Computer
+132.8	Computer	132.7	Computer	99.7	Building Area									99.7	Computer
+149	Computer	165.9	Computer	282.2	Building Area									132.5	Building Area
+282	Computer	132.9	Building Area	199.1	Computer									149.4	Building Area
+232.2	Computer	1543.5	Building Area	315.1	Computer									116	Building Area
+481.3	Computer	115.9	Computer	66.7	Computer									132.7	Building Area
+215.8	Computer	99.5	Computer	116.1	Building Area									66.5	Computer
+116.2	Building Blocks	365.1	Computer	265.6	Building Area									182.7	Computer
+83.2	Building Blocks	248.9	Building Area	282.4	Computer									149.3	Computer
+82.9	Building Blocks	115.9	Building Area	182.3	Computer									149	Computer
+116.2	Computer	82.8	Computer	99.6	Building Area									298.8	Computer
+149.5	Computer	431.2	Computer	132.5	Building Area									281.9	Computer
+1759.2	Computer	166	Building Area	182.4	Building Area									99.5	Computer
+99.8	Building Blocks	282	Building Area	99.7	Computer									348.5	White Space
+846	Building Blocks	497.6	Computer	398.2	Computer									597.6	White Space
+580.8	Building Blocks	348.6	Building Area	182.6	Computer									398.2	White Space
+630.4	Building Blocks	398.2	Computer	116.3	Building Area									381.6	Building Blocks
+381.6	Computer	99.5	Building Area	232.3	Building Area										
+182.3	Building Area	149.3	Building Area	182.8	Building Area										
+315.3	Building Area	863.1	Building Area	132.7	Computer										
+199.3	Computer	547.5	Building Area	132.7	Computer										
+149.3	Computer	215.6	Building Area	83.1	Computer										
+182.6	Building Area	99.6	Building Area	132.8	Building Area										
+99.4	Building Area	165.8	Building Area	232.3	Building Area										
+431.5	Computer	613.9	Building Area	215.7	Building Area										
+182.4	Building Area	381.9	Building Area	132.7	Building Area										
+1642.9	Building Area	215.8	Building Area	132.9	Building Area										
+265.5	Building Area	531.2	Building Area	165.7	Computer										
+1394.2	Building Area	149.3	Building Area	215.6	Computer										
+116.1	Building Area	249.1	Building Area	415	Computer										
+1261.2	Building Area	132.8	Building Area	83.1	Building Area										
+282.1	Building Area	2489.2	Building Area	149.4	Building Area										
+481.3	Building Area	265.6	Building Area	232.5	Building Area										
+829.7	Building Area	115.7	Building Area	166.1	Computer										
+215.9	Building Area	248.6	Building Area	349	Computer										
+99.6	Building Area	99.7	Building Area	132.8	Building Area										
+199.3	Computer	829.6	Building Area	199.1	Building Area										
+331.7	Computer	215.8	Building Area	166	Building Area										
+248.6	Computer	99.4	Building Area	398.2	Computer										
+664.1	Computer	166	Building Area	680.6	Computer										
+83	Building Blocks	796.8	Building Area	248.8	Building Area										
+132.5	Building Blocks	464.4	Building Area	332.3	Building Area										
+132.4	Building Blocks	249.2	Building Area	696.8	Building Area										
+132.6	Building Blocks	464.7	Building Area	99.3	Building Area										
+83.1	Building Blocks	132.8	Building Area	216.1	Building Area										
+299	Building Blocks	182.2	Building Area	149.5	Computer										
+149.4	Building Blocks	132.6	Building Area	148.9	Computer										
+149.4	Building Blocks	282	Building Area	116.3	Computer										
+580.6	Computer	232.2	Building Area	348.5	Computer										
+116.2	Building Blocks	265.5	Computer	331.8	Building Area										
+232.3	Building Blocks	165.7	Computer	282.1	Building Area										
+132.9	Building Blocks	149.3	Computer	149.5	Building Area										
+663.7	Building Blocks	83.1	Building Area	116.2	Computer										
+282.2	Computer	149.2	Building Area	149.5	Computer										
+216.1	Computer	83	Building Area	199.1	Computer										
+497.7	Building Area	514.5	Computer	398.1	Computer										
+149.4	Building Area	447.9	Building Area	182.8	Computer										
+282.7	Building Area	149.3	Building Area	165.7	White Space										
+348.3	Building Area	132.5	Building Area	232	Computer										
+166	Building Area	182.7	Computer												
+448.3	Building Area	149.4	Computer												
+83.2	Building Area	99.8	Building Area												
+1211.2	Computer	232.7	Building Area												
+99.5	Building Area	66.6	Computer												
+265.5	Building Area	182.6	Computer												
+315.2	Building Area	182.4	Building Area												
+364.8	Computer	82.9	Building Area												
+132.9	Building Area	99.4	Computer												
+332	Building Area	99.5	Computer												
+165.7	Building Area	182.7	Computer												
+298.5	Building Area	282.1	Computer												
+481.4	Building Area	99.6	Building Area												
+215.6	Building Area	265.3	Building Area												
+232.3	Building Area	116.3	Building Area												
+298.7	Computer	116	White Space												
+614.2	Computer	182.4	Computer												
+182.8	Building Blocks														
+83.2	Building Blocks														
+133	Building Blocks														
+199.4	Building Blocks														
+82.6	Building Blocks														
+166.1	Building Blocks														
+248.4	Building Blocks														
+332	Building Blocks														
+747.1	Building Blocks														
+83.1	Computer														
+116	Computer														
+182.5	Computer														
+116	Building Area														
+414.7	Building Area														
+630.8	Building Area														
+149.5	Building Area														
+215.9	Computer														
+199.1	Computer														
+182.3	Building Area														
+531	Building Area														
+116.2	Building Area														
+315.4	Computer														
+265.5	Computer														
+149.3	Computer														
+182.6	Building Blocks														
+133	Building Blocks														
+614.2	Building Blocks														
+149.2	Building Blocks														
+381.5	Building Blocks														
+199.4	Computer														
+348.5	Computer														
+132.9	Building Area														
+1925.1	Building Area														
+813.5	Building Area														
+116.3	Computer														
+298.7	Computer														
+165.8	Building Area														
+1360.8	Building Area														
+83	Building Area														
+199.1	Building Area														
+182.5	Computer														
+282	Computer														
+116.2	Computer														
+83	Building Area														
+99.6	Building Area														
+166	Building Area														
+149.3	Computer														
+83.1	Computer														
+232.4	Computer														
+198.9	Computer														
+215.9	Computer														
+149.7	Building Blocks														
+116.1	Building Blocks														
+132.9	Building Blocks														
+99.5	Building Blocks														
+182.5	Building Blocks														
+66.6	Building Area														
+298.7	Computer														
+232.2	Building Area														
+896.3	Building Area														
+265.7	Building Area														
+232.2	Building Area														
+132.8	Computer														
+348.5	Computer														
+531.1	Computer														
+149.3	Computer														
+132.7	Building Area														
+149.1	Computer														
+298.7	Computer														
+216	Computer														
+398.3	Computer														
+116.2	Building Area														
+182.5	Building Area														
+348.5	Computer														
+315.2	Building Area														
+182.6	Building Area														
+1609.7	Building Area														
+315.3	Building Area														
+249.1	Building Area														
+133.1	Building Area														
+99.6	Building Area														
+182.9	Building Area														
+248.9	Computer														
+199.2	Computer														
+99.3	Computer														
+66.6	Computer														
+564.2	Building Area														
+199.3	Building Area														
+132.5	Building Area														
+398.2	Computer														
+215.7	Computer														
+99.4	Building Area														
+116	Building Area														
+116.3	Building Area														
+281.8	Computer														
+182.3	Computer														
+149.5	Computer														
+364.9	Computer														
+99.4	Building Area														
+166.1	Building Area														
+82.9	Computer														
+199	Computer														
+83	Building Area														
+232.3	Building Area														
+248.9	Building Area														
+398.2	Computer														
+248.8	Building Area														
+99.3	Computer														
+248.8	Computer														
+265.3	Computer														
+680.3	Building Area														
+99.6	Building Area														
+99.6	Computer														
+166	Computer														
+215.6	Computer														
+99.6	Building Area														
+281.9	Building Area														
+216.1	Computer														
+83	Building Area														
+165.9	Computer														
+116.2	Building Area														
+149.5	Building Area														
+132.9	Building Area														
+199.2	Computer														
+132.6	Computer														
+165.6	Computer														
+232.3	Building Area														
+99.6	Building Area														
+348.1	Computer														
+149.2	Building Area														
+149.2	Building Area														
+199.1	Building Area														
+962.6	Building Area														
+83	Computer														
+381.7	Computer														
+166	Computer														
+215.7	Computer														
+199.2	Computer														
+331.9	Building Area														
+165.6	Building Area														
+348.1	Building Area														
+365.1	Building Area														
+381.7	Building Area														
+414.5	Building Area														
+182.5	Computer														
+381.6	Computer														
+265.3	Computer														
+182.6	White Space														
+166	Computer														

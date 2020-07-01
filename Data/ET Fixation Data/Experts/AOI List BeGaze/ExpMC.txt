@@ -1,0 +1,204 @@
+T1		T2		T3		T4		T5		T6		T7		T8	
+99.5	Building Blocks	149.6	Building Blocks	83.6	Building Blocks	83.2	Computer	281.9	Building Blocks	66.6	Computer	149.5	Building Blocks	116.1	Building Blocks
+165.7	Building Blocks	514.2	Building Blocks	116.3	Building Blocks	83	Building Blocks	182.5	Building Blocks	647.1	Building Blocks	348.7	Building Blocks	945.7	Building Blocks
+215.2	Building Blocks	697	Building Blocks	116.2	Building Blocks	630.5	Building Blocks	531.3	Building Blocks	198.8	Building Blocks	531	Building Blocks	116.1	Building Blocks
+82.6	Building Blocks	282.2	Building Blocks	448.4	Building Blocks	215.6	Building Area	613.5	Building Blocks	481.6	Building Blocks	182.7	Building Blocks	365.2	Building Area
+597.3	Building Blocks	348.5	Building Area	315.4	Building Blocks	99.6	Building Blocks	282.5	Building Area	149.2	Building Blocks	99.5	Building Blocks	547.5	Building Blocks
+232.4	Building Blocks	116	Building Blocks	332.1	Building Blocks	99.2	Building Blocks	116.1	Building Blocks	216.2	Building Area	464.5	Building Area	315.3	Building Area
+149.4	Building Blocks	99.5	Building Blocks	481.2	Building Area	265	Building Area	99.6	Building Blocks	149	Building Area	298.9	Building Area	448.1	Building Area
+398.2	Building Area	398.1	Building Blocks	166	Building Area	99.5	Building Area	315.8	Building Blocks	149.6	Building Blocks	99.6	Building Area	116.2	Building Area
+149.2	Building Blocks	149.1	Building Blocks	149.3	Building Blocks	99.4	Building Blocks	315.7	Building Area	133.2	Building Blocks	149.5	Building Blocks	315.3	Building Area
+199.3	Building Blocks	99.3	Building Area	82.7	Building Blocks	447.9	Building Blocks	199.4	Building Blocks	431.1	Building Blocks	182.3	Building Blocks	365.1	Building Area
+597.7	Building Blocks	83	Building Area	414.5	Building Blocks	265.1	Building Area	465	Building Blocks	298.7	Building Blocks	481.5	Building Blocks	182.6	Building Area
+248.9	Building Blocks	149.4	Building Blocks	133.4	Building Blocks	381.7	Building Area	83	Building Blocks	282.1	Building Area	365	Building Area	82.9	Building Blocks
+165.9	Building Blocks	365.1	Building Blocks	165.9	Building Blocks	315.3	Building Blocks	166.4	Building Area	132.9	Building Blocks	431.7	Building Blocks	99.1	Building Blocks
+381.7	Building Blocks	232.3	Building Area	564.4	Building Blocks	199.1	Building Blocks	331.9	Building Area	249.3	Building Blocks	364.9	Building Blocks	132.7	Building Blocks
+132.7	Building Blocks	83	Building Area	249.2	Building Area	132.9	Building Blocks	198.9	Building Blocks	99.5	Building Area	99.8	Building Area	133	Building Blocks
+231.9	Building Area	132.7	Building Blocks	331.5	Building Area	232.6	Building Blocks	647.2	Building Blocks	364.8	Building Area	149.6	Building Area	82.9	Building Blocks
+265.2	Building Area	796.9	Building Blocks	298.4	Building Area	99.8	Building Blocks	265.4	Building Blocks	116.1	Building Blocks	414.6	Building Area	498	Building Blocks
+99.3	Building Blocks	1012.7	Building Area	249.1	Building Area	381.6	Building Blocks	116.4	Building Area	83.4	Building Blocks	132.7	Building Area	249	Building Area
+299.1	Building Blocks	680.7	Building Area	83	Building Blocks	497.9	Building Blocks	248.6	Building Area	66.5	Building Blocks	116.4	Building Blocks	165.9	Building Area
+215.5	Building Blocks	331.9	Building Area	680.2	Building Blocks	730.3	Building Blocks	331.9	Building Area	199.1	Building Area	132.7	Building Blocks	215.7	Building Blocks
+365.5	Building Area	1891.7	Building Area	165.8	Building Area	149.4	Building Area	165.9	Building Area	249.1	Building Area	349	Building Blocks	398.4	Building Blocks
+182.7	Building Area	331.8	Building Area	514.4	Building Area	116	Building Area	116.1	Building Area	331.4	Building Area	166	Building Blocks	149.4	Building Blocks
+149.6	Building Blocks	282.4	Building Area	630.7	Building Area	116.4	Building Area	265.3	Building Area	1676.4	Building Area	82.9	Building Blocks	116.2	Building Area
+216.2	Building Blocks	115.8	Building Area	480.9	Building Area	464.8	Building Area	1592.8	Building Area	314.9	Building Area	133	Building Blocks	481.4	Building Area
+846.5	Building Blocks	1559.8	Building Area	381.7	Building Area	348.5	Building Area	133.3	Building Area	249.3	Building Area	99.3	Building Blocks	165.7	Building Area
+132.6	Building Area	132.6	Building Area	232.6	Building Area	199.2	Building Blocks	182.7	Building Area	812.9	Building Area	431.8	Building Area	166.2	Building Area
+182.5	Building Area	182.6	Building Area	231.9	Building Area	813.5	Building Blocks	995.5	Building Area	132.6	Building Area	149.2	Building Area	165.8	Building Area
+232.6	Building Area	381.3	Building Area	1079	Building Area	564.4	Building Area	248.8	Building Area	132.8	Building Area	266.2	Building Area	149.3	Building Area
+415.2	Building Area	265.7	Building Area	232.3	Building Area	979.1	Building Area	133.2	Building Area	531.2	Building Area	846.4	Building Area	132.8	Building Blocks
+1079.1	Building Area	149.5	Building Area	116	Building Area	812.9	Building Area	82.7	Building Area	132.9	Building Area	1510.1	Building Area	730	Building Blocks
+896.4	Building Area	132.5	Building Area	249.1	Building Area	945.9	Building Area	680.7	Building Area	265.3	Building Area	282.1	Building Area	199.2	Building Blocks
+215.9	Building Area	182.4	Building Blocks	182.6	Building Area	133.3	Building Area	498	Building Area	66.5	Building Blocks	132.9	Building Area	182.6	Building Blocks
+1659.4	Building Area	165.6	Building Blocks	365.2	Building Area	132.4	Building Area	182.1	Building Blocks	149.5	Building Blocks	149.3	Building Area	381.7	Building Blocks
+215.9	Building Area	962.1	Building Blocks	115.9	Building Area	166.2	Building Area	133.1	Building Blocks	647.3	Building Blocks	929.4	Building Area	464.6	Building Blocks
+99.7	Building Area	165.9	Building Area	198.8	Building Area	298.5	Building Area	66.7	Building Blocks	149.3	Building Area	232.2	Building Area	165.9	Building Area
+199.1	Building Area	99.6	Building Area	99.9	Building Area	315.5	Building Area	331.7	Building Area	82.6	Building Area	199.3	Building Area	547.9	Building Area
+498.2	Building Area	182.6	Building Area	82.5	Building Blocks	348.3	Building Area	132.8	Building Area	166.4	Building Area	149.3	Building Area	165.9	Building Area
+398.6	Building Area	597.6	Building Area	66.3	Building Blocks	99.9	Building Area	133.1	Building Blocks	265.9	Building Area	116.3	Building Area	680.4	Building Area
+248.9	Building Area	580.4	Building Area	813.2	Building Blocks	199.2	Building Area	99.6	Building Blocks	132.9	Building Area	730.3	Building Area	133.2	Building Blocks
+248.6	Building Area	166	Building Area	431.3	Building Area	149.8	Building Area	1095.5	Building Blocks	149.4	Building Area	248.9	Building Area	132.8	Building Blocks
+265.5	Building Area	630.5	Building Area	282	Building Area	115.7	Building Area	282.4	Building Blocks	99.6	Building Area	232.1	Building Area	132.4	Building Area
+182.9	Building Blocks	215.8	Building Area	132.8	Building Area	564.2	Building Area	149.3	Building Blocks	365.2	Building Area	166.1	Building Blocks	846.3	Building Area
+198.5	Building Blocks	149.2	Building Area	431.4	Building Area	182.3	Building Area	315.3	Building Blocks	663.8	Building Area	83.1	Building Blocks	165.9	Building Area
+580.6	Building Blocks	663.8	Building Area	348.2	Building Area	99.4	Building Area	166	Building Area	66.4	Building Area	149.4	Building Blocks	132.7	Building Area
+232.8	Building Area	597.3	Building Area	132.9	Building Area	199.3	Building Area	215.7	Building Area	99.9	Building Area	116.5	Building Blocks	414.9	Building Area
+166	Building Area	166.1	Building Area	82.9	Building Area	99.5	Building Blocks	398.4	Building Area	630.5	Building Area	381.8	Building Blocks	149.4	Building Area
+132.9	Building Area	415	Building Area	199.6	Building Area	315.5	Building Blocks	99.6	Building Area	182.2	Building Area	165.8	Building Area	1178.4	Building Blocks
+265.3	Building Area	82.7	Building Area	381.9	Building Area	414.9	Building Blocks	365.3	Building Area	398.2	Building Area	232.7	Building Area	215.5	Building Area
+99.8	Building Area	132.8	Computer	215.2	Building Blocks	165.7	Building Blocks	149.4	Building Area	265.8	Building Area	199.2	Building Area	149.4	Building Area
+315.1	Building Area	348	Building Blocks	116.2	Building Blocks	149.6	Building Area	431.5	Building Area	116.2	Building Area	199.1	Building Area	116.3	Building Area
+216.4	Building Area	182.2	Building Blocks	149.7	Building Area	282.5	Building Area	248.4	Building Area	149.5	Building Area	116.2	Building Area	863	Building Area
+149.4	Building Area	248.9	Building Blocks	182.5	Building Blocks	182.8	Building Area	82.8	Building Area	166.1	Building Blocks	232.4	Building Area	165.9	Building Area
+232.7	Building Area	232.1	Building Blocks	82.8	Building Blocks	133	Building Area	1427.2	Building Area	166	Building Blocks	514.6	Building Area	99.6	Building Area
+149.5	Building Area	165.7	Building Blocks	82.9	Building Blocks	299.1	Building Area	231.9	Building Area	99.5	Building Blocks	215.7	Building Area	547.7	Building Area
+498.1	Building Area	66.7	Building Blocks	183	Building Blocks	415.1	Building Area	199	Building Area	215.6	Building Blocks	530.6	Building Area	249	Building Area
+448.7	Building Area	265.4	Building Blocks	929.3	Building Blocks	82.6	Building Area	248.6	Building Area	166	Building Blocks	265.5	Building Area	116.2	Building Area
+182.6	Building Area	365	Building Blocks	215.5	Building Blocks	116.1	Building Area	182.6	Building Blocks	281.8	Building Blocks	249.1	Building Blocks	199.1	Building Area
+83	Building Area	232.2	Building Area	149.4	Building Blocks	1460.7	Building Area	199.1	Building Blocks	249.4	Building Blocks	597.7	Building Blocks	249	Building Blocks
+132.7	Building Area	348.4	Building Area	331.5	Building Blocks	132.8	Building Area	82.9	Building Blocks	149.7	Building Blocks	83.1	Building Blocks	83	Building Blocks
+99.1	Building Area	265.5	Building Blocks	166	Building Blocks	133.1	Building Area	166.4	Building Blocks	580.9	Building Blocks	182.6	Building Blocks	99.6	Building Blocks
+265.6	Building Blocks	166.3	Building Blocks	83	Building Area	182.5	Building Area	99.8	Building Blocks	282.1	Building Blocks	199.3	Building Blocks	149.5	Building Blocks
+431.6	Building Blocks	431.3	Building Blocks	116.3	Building Area	132.8	Building Area	83	Building Blocks	165.5	Building Area	83.1	Building Blocks	116.3	Building Blocks
+166.1	Building Blocks	614.3	Building Blocks	514.5	Building Blocks	182.7	Building Area	481.3	Building Blocks	133.3	Building Blocks	730.2	Building Blocks	348.5	Building Blocks
+99.5	Building Blocks	115.9	Building Blocks	149.7	Building Area	132.3	Building Area	182.4	Building Blocks	216.3	Building Blocks	182.3	Building Blocks	149.3	Building Blocks
+116.4	Building Blocks	281.8	Building Area	348.1	Building Area	182.9	Building Area	696.8	Building Blocks	132.9	Building Blocks	282.2	Building Blocks	149.1	Building Blocks
+597.3	Building Blocks	99.5	Building Blocks	647.4	Building Area	182.6	Building Area	83	Building Blocks	315.3	Building Area	116.6	Building Blocks	696.7	Building Blocks
+182.8	Building Blocks	365.1	Building Blocks	315.3	Building Area	564.4	Building Area	182.9	Building Area	115.9	Building Area	298.3	Building Area	182.8	Building Blocks
+99.5	Building Blocks	182.5	Building Area	747.3	Building Area	115.9	Computer	132.8	Building Blocks	133	Building Blocks	282.3	Building Area	464.3	Building Blocks
+315	Building Blocks	763.6	Building Area	613.8	Building Blocks	99.3	Computer	215.7	Building Blocks	415.1	Building Blocks	299.3	Building Blocks	166	Building Blocks
+198.8	Building Blocks	498.1	Building Area	199.2	Building Area	149.5	Computer	215.7	Building Blocks	99.7	Building Area	132.7	Building Area	248.9	Building Area
+66.5	Building Blocks	979.4	Building Area	315.3	Building Area	132.4	Building Blocks	132.9	Building Area	132.4	Building Area	697	Building Area	82.9	Building Area
+182.1	Building Area	514.4	Building Area	249	Building Area	149.4	Building Blocks	846.2	Building Area	1177.8	Building Area	166	Building Area	132.8	Building Blocks
+912.6	Building Blocks	265.5	Building Area	1012.1	Building Area	248.7	Building Blocks	729.7	Building Area	1294.3	Building Area	713.7	Building Area	365.1	Building Blocks
+1061.6	Building Area	149.3	Building Blocks	945.6	Building Area	116	Building Blocks	231.9	Building Area	115.9	Building Blocks	132.9	Building Blocks	116.1	Building Area
+1360.8	Building Area	464.6	Building Blocks	1328.1	Building Area	183	Building Blocks	249.3	Building Area	713.8	Building Blocks	614	Building Blocks	282.1	Building Area
+132.8	Building Area	232.3	Building Area	315.5	Building Area	132.4	Building Blocks	182.3	Building Blocks	249.1	Building Area	132.7	Building Area	912.7	Building Area
+116.1	Building Blocks	348.5	Building Area	82.5	Building Blocks	149.1	Building Blocks	133	Building Area	497.8	Building Area	115.9	Building Area	182.6	Building Area
+681	Building Blocks	1062.2	Building Area	265.7	Building Blocks	166.3	Building Blocks	481.1	Building Area	215.7	Building Area	547.7	Building Area	132.8	Building Area
+149.3	Building Area	199.2	Building Area	315.6	Building Area	448.3	Building Blocks	282	Building Area	713.1	Building Area	481.3	Building Area	1178.1	Building Area
+447.9	Building Area	1095.2	Building Area	281.6	Building Area	83.5	Building Blocks	448.1	Building Area	614	Building Area	547.9	Building Area	116.1	Building Blocks
+215.7	Building Area	714.1	Building Area	199.1	Building Blocks	166.6	Building Blocks	182.9	Building Area	282.3	Building Area	348.8	Building Area	149.4	Building Blocks
+282.4	Building Area	663.6	Building Area	82.9	Building Blocks	481.1	Building Blocks	149.2	Building Blocks	199.1	Building Blocks	132.9	Building Area	464.6	Building Blocks
+132.5	Building Area	514.4	Building Area	398.2	Building Blocks	115.9	Building Blocks	215.4	Building Blocks	132.9	Building Blocks	265.3	Building Area	149.3	Building Area
+199.1	Building Area	614.1	Building Area	133.2	Building Area	149.7	Building Area	398.3	Building Blocks	298.8	Building Blocks	82.7	Building Blocks	116.2	Building Area
+298.7	Building Area	365.1	Building Area	481.4	Building Area	215.8	Building Area	82.9	Building Area	166.4	Building Area	382.1	Building Blocks	182.5	Building Area
+1477.3	Building Area	83	Building Blocks	298.9	Building Area	99.9	Building Blocks	133.2	Building Area	381.6	Building Area	116.3	Building Area	1543.7	Building Area
+929	Building Area	149.5	Building Blocks	315.8	Building Area	132.7	Building Blocks	99.3	Building Area	99.6	Building Blocks	365.1	Building Area	265.5	Building Area
+231.8	Building Area	415	Building Blocks	83.1	Building Blocks	431.4	Building Blocks	182.5	Building Area	381.2	Building Blocks	165.7	Building Blocks	265.8	Building Area
+265.9	Building Area	680.1	Building Area	132.5	Building Blocks	199.3	Building Area	331.6	Building Area	133.2	Building Blocks	99.4	Building Blocks	83.4	Building Blocks
+231.9	Building Area	581.2	Building Area	282.4	Building Blocks	796.6	Building Area	1111.8	Building Area	332.3	Building Blocks	497.4	Building Blocks	83	Building Blocks
+99.6	Building Area	149.7	Building Area	115.7	Building Area	199	Building Area	663.4	Building Area	199.3	Building Area	133	Building Area	564.2	Building Blocks
+132.8	Building Blocks	149.4	Building Blocks	398.5	Building Area	1011.7	Building Area	647.4	Building Area	1294.3	Building Area	182.7	Building Area	149.4	Building Area
+563.9	Building Blocks	99.6	Building Blocks	398.5	Building Area	448.3	Building Area	182.5	Building Area	597.6	Building Area	447.7	Building Area	265.5	Building Area
+166	Building Area	149.4	Building Blocks	198.8	Building Blocks	115.9	Building Area	315.4	Building Area	182.8	Building Area	514.4	Building Area	99.6	Building Blocks
+265.6	Building Area	116.1	Building Blocks	83	Building Blocks	132.4	Building Blocks	66.7	Building Area	348.3	Building Area	116.6	Building Area	697	Building Blocks
+166	Building Area	99.6	Building Blocks	962.8	Building Blocks	166	Building Blocks	182.1	Building Area	132.8	Building Blocks	99	Building Blocks	1045.5	Building Area
+99.7	Building Blocks	398.3	Building Blocks	149.6	Building Area	464.7	Building Blocks	99.8	Building Blocks	83	Building Blocks	232.3	Building Blocks	249.3	Building Area
+149.3	Building Blocks	1028.9	Building Area	581.1	Building Area	298.5	Building Area	116.1	Building Blocks	398.2	Building Blocks	547.8	Building Blocks	397.9	Building Area
+133.2	Building Blocks	564.3	Building Area	216	Building Area	298.9	Building Area	199.1	Building Blocks	132.8	Building Area	364.8	Building Area	82.8	Building Area
+365.1	Building Blocks	199.1	Building Area	580.5	Building Area	232.4	Building Area	364.7	Building Blocks	1028.8	Building Area	132.7	Building Blocks	99.7	Building Blocks
+281.7	Building Blocks	364.9	Building Blocks	265.3	Building Area	1211.7	Building Area	282.5	Building Area	365	Building Area	132.6	Building Blocks	182.6	Building Blocks
+83	Building Area	99.8	Building Blocks	116.5	Building Area	398.6	Building Area	166.2	Building Area	83.4	Building Blocks	182.4	Building Blocks	99.7	Building Area
+298.9	Building Area	198.6	Building Blocks	1692.7	Building Area	929.2	Building Area	215.7	Building Area	231.9	Building Blocks	166.1	Building Area	149.3	Building Blocks
+597.9	Building Area	99.6	Building Area	99.7	Building Blocks	564.3	Building Area	99.8	Building Blocks	464.4	Building Blocks	547.6	Building Area	381.6	Building Blocks
+216	Building Area	995.7	Building Area	448	Building Blocks	282.1	Building Area	83.4	Building Blocks	331.3	Building Blocks	198.6	Building Area	614	Building Area
+99.5	Building Area	813.3	Building Area	165.9	Building Area	215.7	Building Area	116.1	Building Blocks	82.9	Building Area	99.4	Building Blocks	265.6	Building Area
+99.6	Building Blocks	464.6	Building Blocks	249	Building Area	149.4	Building Area	381.9	Building Blocks	265.6	Building Area	481.3	Building Blocks	149.4	Building Blocks
+415.3	Building Blocks	132.9	Building Blocks	946.4	Building Area	99.5	Building Blocks	215.5	Building Area	398.4	Building Area	199.3	Building Area	166	Building Blocks
+99.6	Building Area	349	Building Area	182.5	Building Blocks	348.5	Building Blocks	797	Building Area	182.8	Building Blocks	663.8	Building Area	165.9	Building Blocks
+1195	Building Area	215.3	Building Area	116.5	Building Blocks	431.8	Building Area	83.2	Building Area	730.4	Building Blocks	315.2	Building Area	232.3	Building Blocks
+116.3	Building Area	1195.1	Building Area	530.9	Building Blocks	331.9	Building Area	497.7	Building Blocks	1194.4	Building Blocks	298.8	Building Area	647.2	Building Area
+315.2	Building Area	730.5	Building Blocks	448	Building Area	149.4	Building Blocks	150	Building Area	415.2	Building Area	99.6	Building Blocks	398.4	Building Area
+282.3	Building Area	116.2	Building Blocks	182.8	Building Area	82.7	Building Blocks	796.9	Building Area	498.2	Building Area	614	Building Blocks	1360.4	Building Area
+133.1	Building Area	248.8	Building Area	597.4	Building Area	116.4	Building Blocks	99.3	Building Blocks	315.7	Building Area	215.7	Building Area	315.4	Building Blocks
+199.1	Building Blocks	530.8	Building Area	116.1	Building Blocks	497.6	Building Blocks	298.7	Building Blocks	82.7	Building Blocks	846.4	Building Area	265.6	Building Blocks
+199	Building Blocks	149.2	Building Area	99.6	Building Blocks	846.3	Building Area	348.4	Building Blocks	215.7	Building Blocks	265.4	Building Area	580.9	Building Blocks
+514.6	Building Blocks	99.5	Building Area	448.2	Building Blocks	199.1	Building Area	149.4	Building Area	216.1	Building Blocks	83	Building Blocks	132.7	Building Area
+132.8	Building Area	115.7	Building Blocks	133.1	Building Area	199.1	Building Blocks	149.7	Building Area	132.8	Building Area	83	Building Blocks	132.8	Building Area
+380.8	Building Area	863	Building Blocks	232.3	Building Area	348.5	Building Blocks	464.8	Building Area	165.8	Building Area	199.1	Building Blocks	945.9	Building Area
+249.3	Building Area	198.8	Building Area	514.5	Building Area	116.1	Building Area	215.9	Building Area	165.6	Building Blocks	199.3	Building Blocks	763.2	Building Blocks
+216.1	Building Area	630.6	Building Area	116.4	Building Area	763.3	Building Area	149.2	Building Area	746.8	Building Blocks	1228	Building Area	166	Building Area
+133.1	Building Area	696.9	Building Area	166.2	Building Area	199.4	Building Area	215.4	Building Blocks	1245.2	Building Area	182.5	Building Blocks	1709.4	Building Area
+232.1	Building Area	83.1	Building Blocks	99.8	Building Blocks	182.8	Building Area	813.3	Building Blocks	813	Building Blocks	381.9	Building Area	99.5	Building Blocks
+1045.3	Building Blocks	315.1	Building Blocks	99.4	Building Blocks	232.2	Building Blocks	116	Building Area	83.2	Building Blocks	149.5	Building Blocks	99.6	Building Blocks
+132.3	Building Blocks	149	Building Blocks	133.1	Building Blocks	165.6	Building Blocks	713.6	Building Area	265.3	Building Area	431.6	Building Blocks	381.8	Building Blocks
+265.6	Building Area	464.2	Building Blocks	249.1	Building Blocks	116.4	Building Blocks	99.5	Building Area	265.1	Building Area	182.2	Building Area	182.5	Building Blocks
+133.1	Building Area	199.2	Building Blocks	281.8	Building Blocks	166.3	Building Blocks	99.5	Building Blocks	464.4	Building Area	779.8	Building Area	614.3	Building Area
+498	Building Area	182.6	Building Area	149.3	Building Blocks	431	Building Blocks	116.3	Building Blocks	132.6	Building Area	132.8	Building Blocks	597.4	Building Blocks
+66.6	Building Blocks	116.2	Building Area	1045.9	Building Blocks	82.9	Building Area	265.3	Building Blocks	132.8	Building Blocks	149.3	Building Blocks	166	Building Blocks
+580.8	Building Blocks	614.2	Building Area	183.1	Building Area	614.1	Building Area	149.4	Building Blocks	231.9	Building Blocks	199.1	Building Blocks	166	Building Blocks
+266	Building Blocks	215.5	Building Area	1012.5	Building Area	132.8	Building Area	281.9	Building Blocks	99.7	Building Blocks	116.2	Building Blocks	116.2	Building Blocks
+1227.7	Building Area	514.4	Building Area	331.9	Building Area	116.2	Building Area	879.4	Building Area	132.8	Building Blocks	165.9	Building Blocks	315.3	Building Blocks
+547.8	Building Blocks	82.9	Building Blocks	465.1	Building Area	116.5	Building Area	580.4	Building Area	182.6	Building Blocks	945.9	Building Blocks	132.8	Building Blocks
+99	Building Area	115.7	Building Blocks	215.5	Building Blocks	812.9	Building Blocks	165.4	Building Blocks	282	Building Blocks	265.5	Building Blocks	116.1	Building Area
+182.5	Building Area	448.2	Building Blocks	564.5	Building Blocks	116.2	Building Area	431.4	Building Blocks	265.4	Building Blocks	249.2	Building Area	248.9	Building Area
+265.5	Building Area	182.5	Building Blocks	149.3	Building Blocks	830	Building Area	116.3	Building Area	1145.4	Building Blocks	464.7	Building Area	398.3	Building Area
+83	Building Area	216.2	Building Area	132.7	Building Area	182.6	Building Blocks	149.5	Building Area	348.8	Building Blocks	332	Building Area	232.3	Building Area
+614.3	Building Area	796.5	Building Area	82.9	Building Blocks	215.8	Building Blocks	779.8	Building Area	514.4	Building Area	182.8	Building Blocks	298.7	Building Area
+115.6	Building Area	149.4	Building Area	414.5	Building Blocks	464.5	Building Blocks	282.4	Building Area	182.4	Building Area	99.4	Building Blocks	215.7	Building Area
+398.3	Building Area	116.2	Building Blocks	149.3	Building Area	199.1	Building Blocks	116.3	Building Blocks	215.9	Building Area	199.5	Building Blocks	381.9	Building Area
+265.1	Building Area	282.4	Building Blocks	1260.8	Building Area	166	Building Blocks	166.3	Building Blocks	83	Building Area	348.4	Building Blocks	215.9	Building Blocks
+132.8	Building Area	581.3	Building Blocks	182.4	Building Area	381.9	Building Area	281.9	Building Blocks	115.9	Building Area	365	Building Blocks	165.9	Building Area
+132.7	Building Area	465	Building Blocks	216	Building Area	863	Building Area	580.9	Building Blocks	132.6	Building Area	995.9	Building Blocks	116	Building Area
+132.5	Building Blocks	630.8	Building Blocks	381.5	Building Area	132.8	Building Blocks	448	Building Blocks	763.2	Building Area	149.4	Building Area	66.4	Building Blocks
+249	Building Blocks	116.3	Building Blocks	315.4	Building Area	663.6	Building Blocks	115.8	Building Area	149.6	Building Area	448.2	Building Area	199.2	Building Blocks
+149.3	Building Blocks	165.8	Building Area	83.2	Building Area	199.1	Building Area	132.8	Building Area	580.5	Building Area	165.8	Building Area	182.6	Building Blocks
+448.2	Building Blocks	1111.8	Building Area	166	Building Blocks	614.4	Building Area	398.5	Building Area	746.8	Building Area	2257	Building Area	829.8	Building Blocks
+132.7	Building Blocks	99.5	Building Blocks	149.5	Building Blocks	215.9	Building Area	166	Building Blocks	364.8	Building Blocks	813.4	Building Area	182.6	Building Area
+232.3	Building Blocks	116.2	Building Blocks	1907.8	Building Area	265.8	Building Area	198.8	Building Blocks	149.5	Building Blocks	116.3	Building Area	132.7	Building Area
+713.8	Building Blocks	132.7	Building Blocks	514.2	Building Area	132.8	Building Blocks	298.8	Building Blocks	216	Building Blocks	82.7	Building Area	597.4	Building Area
+116.2	Building Area	199.3	Building Blocks	132.7	Building Area	498.4	Building Blocks	83	Building Blocks	315.4	Building Blocks	232.2	Building Area	448.1	Building Area
+132.4	Building Area	448	Building Blocks	415	Building Area	215.3	Building Blocks	714.1	Building Blocks	1393.8	Building Blocks	431.5	Building Blocks	149.3	Building Blocks
+663.9	Building Area	149.2	Building Blocks	1012.6	Building Area	730.4	Building Blocks	1543.1	Building Blocks	182.2	Building Area	1593.2	Building Area	99.5	Building Blocks
+315.4	Building Area	647.2	Building Area	132.5	Computer	182.9	Building Area	514.8	Building Area	149.1	Building Area	497.8	Building Area	149.9	Building Blocks
+298.7	Building Area	132.3	Building Blocks	696.6	Computer	613.9	Building Area	962.5	Building Area	215.7	Building Area	116.3	Building Area	464.6	Building Blocks
+265.5	Building Area	315.2	Building Blocks	314.9	Computer	165.9	Building Area	166	Building Area	199	Building Area	348.5	Building Area	713.6	Building Blocks
+165.6	Building Blocks	132.7	Building Area	663.7	Computer	116.1	Building Blocks	597.7	Building Area	448.1	Building Area	580.7	Building Area	514.3	Building Area
+165.7	Building Blocks	99.5	Building Area	215.9	Computer	348.2	Building Blocks	149.6	Building Blocks	697	Building Area	116.2	Building Area	99.4	Building Area
+199	Building Blocks	846.4	Building Area	1593.5	Computer	199	Building Blocks	116.2	Building Blocks	331.6	Building Area	182.5	Computer	149.3	Building Area
+199	Building Blocks	116.2	Building Area	215.9	Computer	663.8	Building Area	166.3	Building Blocks	564.2	Building Area	348.5	Computer	979.1	Building Area
+232.4	Building Blocks	895.9	Building Area	265.3	Computer	564.2	Building Blocks	99.5	Building Area	215.8	Building Area	231.9	Computer	481.2	Building Area
+132.8	Building Blocks	149.8	Building Blocks	364.5	Computer	99.5	Building Area	149.3	Building Area	315.3	Building Area	149.2	Computer	99.5	Building Area
+863	Building Blocks	249.4	Building Blocks	182.7	White Space	365	Building Area	978.9	Building Area	99.8	Building Blocks	265	Computer	199.2	Building Area
+282.1	Building Blocks	1543.1	Building Area	249.2	Computer	132.8	Building Blocks	381.8	Building Area	282.5	Building Blocks	249.2	Computer	299.1	Building Area
+415.2	Building Blocks	99.9	Building Area			116.3	Building Blocks	331.7	Building Area	82.8	Building Area	448	Computer	100	Building Area
+182.5	Building Area	216	Building Area			116.3	Building Blocks	165.9	Building Area	1460.2	Building Area	414.9	Computer	165.8	Building Blocks
+282.3	Building Area	365.1	Building Area			149.4	Building Blocks	298.7	Building Area	398.4	Building Area	198.9	Computer	99.3	Building Blocks
+149.2	Building Area	165.5	Building Area			215.5	Building Blocks	132.5	Building Area	1593.2	Building Area	298.7	Computer	232.3	Building Blocks
+813.2	Building Area	83.3	Building Area			182.5	Building Area	498.1	Building Area	99.2	Computer	614.2	Computer	249	Building Area
+149.1	Building Blocks	149.4	Building Area			448.6	Building Area	132.3	Building Area	99.6	Computer	182.6	Computer	3103.2	Building Area
+365.1	Building Blocks	265.1	Building Area			298.7	Building Area	199.1	Building Area	531.2	Computer	115.7	Computer	116.2	Building Area
+630.6	Building Area	497.8	Building Area			929.1	Building Area	1477.1	Building Area	481.4	Computer	83.1	Computer	132.8	Building Area
+497.8	Building Area	448.1	Building Area			166.2	Building Area	166.1	Building Area	696.9	Computer	1477.2	Computer	232.5	Building Area
+1178.2	Building Area	481.7	Building Area			132.7	Building Area	182.6	Building Area	381.7	Computer	66.9	Computer	199.1	Building Area
+298.7	Building Blocks	99.3	Building Area			232.3	Building Area	99.8	Computer	481	Computer	166	Computer	232	Building Area
+132.7	Building Area	182.6	Computer			465.3	Building Area	132.8	Computer	498.1	Computer	99.3	Computer	547.8	Building Area
+846.5	Building Area	298.8	Computer			481.3	Building Area	365.1	Computer	116	Computer	83.2	Computer	199.3	Building Area
+116	Building Area	149.8	Computer			497.8	Building Area	862.6	Computer	248.8	Computer	82.9	Computer	232.4	Building Area
+166	Building Area	182.9	Computer			215.9	Building Area	398.1	Computer	597.4	Computer	215.4	Computer	182.5	Building Area
+115.6	Building Blocks	448	Computer			215.7	Building Area	531.1	Computer	680.4	Computer	282.2	Computer	431.5	Building Area
+264.9	Building Blocks	282.2	Computer			116.3	Building Area	182.7	Computer	365.1	Computer	165.9	Computer	331.9	Building Area
+1743.1	Building Area	514.6	Computer			182.3	Building Area	746.6	Computer	49.5	Computer	249.3	Computer	265.5	Building Area
+149.4	Building Area	99.3	Computer			215.2	Building Area	132.8	Computer	232.1	Computer	348.7	Computer	497.9	Building Area
+166	Building Area	215.9	Computer			498.1	Building Area	215.8	Computer	381.5	Computer	215.7	Computer	83	Computer
+83	Building Area	99.3	Computer			248.9	Building Area	514.6	Computer	348.3	Computer	99.6	White Space	149.4	Computer
+232.4	Building Area	83.2	White Space			547.3	Building Area	248.6	Computer	398.4	Computer	199	Computer	630.6	Computer
+315.3	Building Area	232.6	Computer			99.1	Computer	82.9	Computer	116.1	Computer			149.6	Computer
+249.3	Building Area					166.2	Computer	398.1	Computer	199.2	White Space			182.8	Computer
+364.9	Building Area					531.6	Computer	580.5	Computer	216	Computer			298.7	Computer
+1211.2	Building Area					282.4	Computer	364.9	Computer					514.7	Computer
+929.7	Building Area					116.1	Computer	83.2	Computer					547.5	Computer
+182.5	Building Area					614.1	Computer	99.3	Computer					265.6	Computer
+348.8	Building Area					481.2	Computer	647	Computer					497.8	Computer
+547.8	Building Area					215.5	Computer	248.5	Computer					232.3	Computer
+165.9	Computer					1360.8	Computer	182.4	Computer					448	Computer
+116.5	Computer					431.2	Computer	99.6	Computer					166	Computer
+381.8	Computer					165.8	Computer	199.3	Computer					149.4	Computer
+82.9	Computer					83	White Space	165.9	Computer					83	Computer
+99.6	White Space					265.3	Computer	398.5	Computer					149.4	White Space
+99.6	Computer							564.2	Computer					846.4	White Space
+								99.6	Computer						
+								879.5	White Space						
+								249	Computer						
