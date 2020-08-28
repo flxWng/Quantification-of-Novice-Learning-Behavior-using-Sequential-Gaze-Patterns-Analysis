@@ -1,4 +1,4 @@
-# Quantification-of-Novice-Learning-Behavior-using-Sequential-Gaze-Patterns-Analysis
+# An Algorithmic Approach to Determine Expertise Development using Object Related Gaze Pattern Sequences
 Eye Tracking Study Data
 
 Data is divided into two folders:
